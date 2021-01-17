@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Street Kid" nameDescription="a street kid" race="blood" experience="2500" speed="660" manacost="0">
+  <health now="22000" max="22000"/>
+  <look type="40" corpse="5985"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="3"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="400"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="70" attack="80"/>
+    <attack name="fire" interval="2000" chance="10" range="7" radius="4" target="1" min="-900" max="-1000">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+    <attack name="fire" interval="3000" chance="34" range="7" radius="2" target="1" min="-800" max="-900">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+  </attacks>
+  <defenses armor="15" defense="15">
+    <defense name="healing" interval="9000" chance="50" min="10" max="10">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="1000" chance="40" speedchange="300" duration="40000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+    <defense name="invisible" interval="4000" chance="50" duration="50">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element firePercent="100"/>
+	<element earthPercent="30"/>
+	<element deathPercent="25"/>
+	<element icePercent="-25"/>
+	<element holyPercent="-12"/>
+  </elements>
+  <immunities>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+
+  <loot>
+   <item id="6500" countmax="1" chance1="8000" chancemax="10000"/>
+      <item id="2160" countmax="2" chance1="100000" chancemax="0"/>
+   <item id="6558" chance="2222"/>
+   <item id="2260" chance="18000"/>
+   <item id="6300" chance="999"/>
+   <item id="2465" chance="6577"/>
+   <item id="2004" chance="100000">
+		<inside>
+			<item id="2548" chance="20000"/>
+			<item id="2465" chance="6577"/>
+			<item id="2185" chance="833"/>
+			<item id="2160" countmax="3" chance1="100000" chancemax="0"/>
+			<item id="5944" chance="5666"/>
+			<item id="2150" countmax="1" chance1="8888" chancemax="0"/>
+		</inside>
+	</item>
+  </loot>
+</monster>

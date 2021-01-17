@@ -1,0 +1,1 @@
+./run >> /root/Collapser_Server/distro.log 2>&1

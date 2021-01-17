@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Hydros" nameDescription="an hydros" race="undead" experience="580" speed="500" manacost="0">
+  <health now="1000000" max="1000000"/>
+  <look type="317" head="125" body="124" legs="105" feet="124" addons="1" corpse="6081"/>
+  <targetchange interval="2000" chance="5"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag staticattack="50"/>
+    <flag lightlevel="0"/>
+    <flag lightcolor="0"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1060" min="-900" max="-1200"/>
+    <attack name="outfit" interval="1500" chance="10" range="7" item="7172" duration="0">
+       <attribute key="areaEffect" value="blueshimmer"/>
+     </attack>
+	<attack name="drown" interval="500" chance="25" radius="14" target="0" min="-800" max="-1100">
+      <attribute key="areaEffect" value="bluebubble"/>
+    </attack>
+    <attack name="energy" interval="1500" chance="25" length="8" spread="0" min="-900" max="-1700">
+      <attribute key="areaEffect" value="energy"/>
+    </attack>
+    <attack name="physical" interval="100" chance="25" radius="9" target="0" min="-600" max="-1000">
+      <attribute key="areaEffect" value="poff"/>
+    </attack>
+    <attack name="physical" interval="1000" chance="25" length="4" spread="3" min="-1500" max="-2100">
+			<attribute key="areaEffect" value="bluenote"/>
+    </attack>
+  </attacks>
+  <defenses armor="75" defense="70">
+    <defense name="healing" interval="2500" chance="70" min="10000" max="12000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+      <defense name="invisible" interval="2000" chance="35" duration="2000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+  <element firePercent="0"/>
+  <element earth="0"/>
+  <element holyPercent="0"/>
+  <element energyPercent="0"/>
+  <element deathPercent="0"/>
+  </elements>
+  <immunities>
+    <immunity ice="0"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="2000" chance="5">
+    <voice sentence="RUGRAGS"/>
+    <voice sentence="I WILL DRAG YOUR CORPS !"/>
+    <voice sentence=".l.!"/>
+  </voices>
+  <loot>
+    <item id="2361" chance="100000"/> --Frozen Starlight
+    <item id="5945" chance="100000"/> --Mermaid Comb
+    <item id="7250" chance="100000"/> --Tyria Head
+    <item id="2361" chance="100000"/> --Frozen Starlight
+  </loot>
+</monster>
+

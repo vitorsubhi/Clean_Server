@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Infected Villager" nameDescription="Infected Villager" race="blood" experience="150" speed="850" manacost="0">
+  <health now="5000000" max="5000000"/>
+  <look type="323" head="19" body="71" legs="128" feet="128" addons="1" corpse="3128"/>
+  <targetchange interval="5000" chance="30"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="0"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-4300" max="-5000"/>
+  </attacks>
+  <defenses armor="15" defense="25"/>
+  <elements>
+	<element firePercent="0"/>
+	<element icePercent="0"/>
+  </elements>
+  <immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="0"/>
+		<immunity drunk="0"/>
+		<immunity invisible="1"/>
+  </immunities>
+  <loot>
+    <item id="2160" countmax="10" chance="15000"/>
+    <item id="2160" countmax="10" chance="15000"/>
+    <item id="2160" countmax="10" chance="15000"/>
+    <item id="2160" countmax="10" chance="15000"/>
+  </loot>
+</monster>
+

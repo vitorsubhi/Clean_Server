@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sobek" nameDescription="a sobek" race="blood" experience="900000000" speed="30000" manacost="350">
+  <health now="180000000" max="180000000"/>
+  <look type="119" head="20" body="30" legs="40" feet="50" corpse="6046"/>
+  <targetchange interval="5000" chance="100"/>
+  <strategy attack="400000" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-40000" max="-45600"/>
+    <attack name="fire" interval="1000" chance="85" range="7" radius="7" target="1" min="-26200" max="-28600">
+		   <attribute key="shootEffect" value="fire"/>
+		   <attribute key="areaEffect" value="firearea"/>                                          </attack>
+    <attack name="physical" interval="1000" chance="90" length="4" spread="3" min="-26100" max="-30300">
+			<attribute key="areaEffect" value="purplenote"/>
+    </attack> 
+  </attacks>
+  <defenses armor="13" defense="5"/>
+  	<elements>
+	    <element physicalPercent="5"/>
+		<element energyPercent="-5"/>
+		<element earthPercent="100"/>
+		<element icePercent="10"/>
+		<element firePercent="-10"/>
+	</elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="0"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="0"/>
+  </immunities>
+  <voices interval="5000" chance="100">
+    <voice sentence="~FLAIL~" yell="1"/>
+	</voices>
+  <loot>
+	<item id="6527" chance="200000" countmax="30"/>
+	<item id="6527" chance="200000" countmax="50"/>
+	<item id="6527" chance="200000" countmax="10"/>
+	<item id="6527" chance="200000" countmax="40"/>
+  </loot>
+</monster>

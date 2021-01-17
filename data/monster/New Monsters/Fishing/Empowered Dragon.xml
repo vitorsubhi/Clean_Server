@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Empowered Dragon" nameDescription="a Empowered Dragon" race="blood" experience="600000" speed="850" manacost="0">
+  <health now="2000000" max="2000000"/>
+  <look type="34" head="20" body="30" legs="40" feet="50" corpse="5973"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="300"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1200" min="-5300" max="-6500"/>
+    <attack name="blabow" interval="3000" min="-5500" max="-6500"/>
+  </attacks>
+  <defenses armor="25" defense="25">
+    <defense name="healing" interval="1000" chance="13" min="640" max="760">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity fire="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <elements>
+	<element earthPercent="0"/>
+	<element energyPercent="0"/>
+	<element icePercent="0"/>
+  </elements>
+  <voices interval="5000" chance="10">
+    <voice sentence="GROOAAARRR" yell="1"/>
+    <voice sentence="FCHHHHH" yell="1"/>
+  </voices>
+  <loot>
+    <item id="2160" chance="100000" countmax="12" />
+    <item id="1987" chance="50000">
+      <inside>
+	<item id="8306" chance="50000" chancemax="1"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

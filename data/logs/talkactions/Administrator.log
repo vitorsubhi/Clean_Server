@@ -1,0 +1,2074 @@
+[6/1/2019 2:52:11] /pos
+[6/1/2019 2:52:22] /newtype 110
+[6/1/2019 2:52:40] /newtype 302
+[6/1/2019 2:53:2] /newtype 12
+[6/1/2019 2:53:8] /newtype 302
+[6/1/2019 2:53:20] /newtype 10
+[6/1/2019 2:53:26] /newtype 13
+[6/1/2019 2:53:29] /newtype 9
+[6/1/2019 2:53:32] /newtype 17
+[6/1/2019 2:53:34] /newtype 14
+[6/1/2019 2:53:37] /newtype 8
+[6/1/2019 2:53:40] /newtype 18
+[6/1/2019 2:53:42] /newtype 11
+[6/1/2019 2:53:46] /newtype 302
+[6/1/2019 3:58:47] /goto al rashid
+[6/1/2019 3:59:0] /i chest
+[6/1/2019 3:59:8] /i strong mana potion
+[6/1/2019 3:59:30] /attr uniqueid 7589
+[6/1/2019 4:0:11] /r
+[6/1/2019 4:0:32] /ghost
+[6/1/2019 4:0:35] /down
+[6/1/2019 4:0:51] /cliport
+[6/1/2019 4:1:0] /a 4
+[6/1/2019 4:1:14] /i 1749
+[6/1/2019 4:1:34] /attr uniqueid 7589
+[6/1/2019 4:1:55] /attr aid 7589
+[6/1/2019 4:2:36] /r
+[6/1/2019 4:2:43] /i 1747
+[6/1/2019 4:2:54] /attr uid 7589
+[6/1/2019 4:2:59] /r
+[6/1/2019 4:3:12] /goto al rashid
+[6/1/2019 4:3:41] /ghost
+[6/1/2019 4:3:59] /i fishing rod
+[6/1/2019 4:4:0] /i fishing rod
+[6/1/2019 4:4:0] /i fishing rod
+[6/1/2019 4:4:1] /i fishing rod
+[6/1/2019 4:7:1] /dosay Baba Yaga, dificil pra min
+[6/1/2019 4:7:24] /dosay Baba Yaga, ser gay hj em dia é tenso
+[6/1/2019 4:7:59] /dosay Baba Yaga, foi meu cachorro q digitou
+[6/1/2019 4:9:9] /dosay Al Rashid, meu cu ta coçando
+[6/1/2019 4:9:29] /dosay Al Rashid, manipulador tu é mo noob
+[6/1/2019 4:9:52] /dosay Maniipulador, al rashid tu é otario doido
+[6/1/2019 4:10:6] /dosay Al Rashid, vem pros fight uai
+[6/1/2019 4:10:13] /dosay Maniipulador, tu n sola
+[6/1/2019 4:10:20] /dosay Maniipulador, xD
+[6/1/2019 4:10:26] /dosay Al Rashid, vem ué
+[6/1/2019 4:10:55] /dosay Al Rashid, amanha é dia de fazer anal com meu primo
+[6/1/2019 4:11:13] /dosay Maniipulador, vdd eu tbm vou fz
+[6/1/2019 4:11:47] /r
+[6/1/2019 4:11:50] /r
+[6/1/2019 4:11:51] /r
+[6/1/2019 4:11:53] /r
+[6/1/2019 4:11:59] /r
+[6/1/2019 4:12:0] /r
+[6/1/2019 4:12:3] /r
+[6/1/2019 4:12:4] /r
+[6/1/2019 4:12:6] /r
+[6/1/2019 4:12:7] /r
+[6/1/2019 4:12:8] /r
+[6/1/2019 4:12:9] /r
+[6/1/2019 4:12:11] /r
+[6/1/2019 4:12:15] /r
+[6/1/2019 4:12:44] /r
+[6/1/2019 4:13:17] /clean
+[6/1/2019 4:13:20] /a
+[6/1/2019 4:13:21] /a
+[6/1/2019 4:13:22] /a
+[6/1/2019 4:13:27] /i 870
+[6/1/2019 4:13:37] /i 724
+[6/1/2019 4:13:41] /a
+[6/1/2019 4:13:49] /m dragon lord
+[6/1/2019 4:13:52] /a
+[6/1/2019 4:13:53] /m dragon lord
+[6/1/2019 4:13:57] /a
+[6/1/2019 4:13:59] /m dragon lord
+[6/1/2019 4:14:2] /a
+[6/1/2019 4:14:4] /a
+[6/1/2019 4:14:9] /c dragon lord
+[6/1/2019 4:14:17] /a
+[6/1/2019 4:14:19] /ghost
+[6/1/2019 4:14:22] /c dragon lord
+[6/1/2019 4:14:27] /m dragon lord
+[6/1/2019 4:14:33] /a
+[6/1/2019 4:14:36] /i 724
+[6/1/2019 4:14:38] /r
+[6/1/2019 4:14:42] /m dragon lord
+[6/1/2019 4:14:45] /m dragon lord
+[6/1/2019 4:14:47] /a
+[6/1/2019 4:15:9] /m demon
+[6/1/2019 4:16:6] /r
+[6/1/2019 4:16:7] /m killer rabbit
+[6/1/2019 4:17:52] /attr speed 40
+[6/1/2019 4:17:55] /attr speed 40
+[6/1/2019 4:17:56] /attr speed 40
+[6/1/2019 4:18:5] /attr speed -2000
+[6/1/2019 4:18:9] /attr speed -2000
+[6/1/2019 4:18:11] /attr speed -2000
+[6/1/2019 4:18:12] /attr speed -2000
+[6/1/2019 4:18:13] /attr speed -2000
+[6/1/2019 4:18:14] /attr speed -2000
+[6/1/2019 4:18:15] /attr speed -2000
+[6/1/2019 4:18:32] /attr movespeed -2000
+[6/1/2019 4:18:34] /attr movespeed -2000
+[6/1/2019 4:18:42] /attr speed 20
+[6/1/2019 4:18:47] /attr speed 20
+[6/1/2019 4:18:49] /attr speed 20
+[6/1/2019 4:20:47] /clean
+[6/1/2019 4:20:54] /i stone
+[6/1/2019 4:20:59] /m killer rabbit
+[6/1/2019 4:21:9] /attr health - 4000
+[6/1/2019 4:21:15] /attr health -3000
+[6/1/2019 4:21:16] /attr health -3000
+[6/1/2019 4:21:17] /attr health -3000
+[6/1/2019 4:21:18] /attr health -3000
+[6/1/2019 4:21:22] /m killer rabbit
+[6/1/2019 4:21:24] /attr health -3000
+[6/1/2019 4:21:24] /attr health -3000
+[6/1/2019 4:21:24] /attr health -3000
+[6/1/2019 4:23:14] /i death ring
+[6/1/2019 4:23:16] /i death ring
+[6/1/2019 4:23:16] /i death ring
+[6/1/2019 4:23:24] /i death ring
+[6/1/2019 4:23:24] /i death ring
+[6/1/2019 4:23:41] /m killer rabbit
+[6/1/2019 4:23:48] /attr health -9000
+[6/1/2019 4:23:50] /a
+[6/1/2019 4:23:52] /attr health -9000
+[6/1/2019 4:24:4] /attr health -11000
+[6/1/2019 4:24:18] /m killer rabbit
+[6/1/2019 4:24:20] /attr health -11000
+[6/1/2019 4:25:42] /clean
+[6/1/2019 4:26:7] /m killer rabbit
+[6/1/2019 4:26:10] /a
+[6/1/2019 4:26:11] /attr health -11500
+[6/1/2019 4:26:24] /m killer rabbit
+[6/1/2019 4:26:24] /attr health -11500
+[6/1/2019 4:26:30] /m killer rabbit
+[6/1/2019 4:26:31] /attr health -11500
+[6/1/2019 4:26:34] /m killer rabbit
+[6/1/2019 4:26:35] /attr health -11500
+[6/1/2019 4:26:38] /m killer rabbit
+[6/1/2019 4:26:39] /attr health -11500
+[6/1/2019 4:26:41] /m killer rabbit
+[6/1/2019 4:26:42] /attr health -11500
+[6/1/2019 4:26:43] /m killer rabbit
+[6/1/2019 4:26:45] /attr health -11500
+[6/1/2019 4:26:47] /m killer rabbit
+[6/1/2019 4:26:49] /attr health -11500
+[6/1/2019 4:26:50] /m killer rabbit
+[6/1/2019 4:26:55] /attr health -11500
+[6/1/2019 4:26:57] /m killer rabbit
+[6/1/2019 4:27:1] /attr health -11500
+[6/1/2019 4:27:3] /m killer rabbit
+[6/1/2019 4:27:7] /attr health -11500
+[6/1/2019 4:27:8] /m killer rabbit
+[6/1/2019 4:27:13] /attr health -11500
+[6/1/2019 4:27:35] /m killer rabbit
+[6/1/2019 4:27:44] /attr health -11500
+[6/1/2019 4:27:47] /m killer rabbit
+[6/1/2019 4:27:54] /attr health -11500
+[6/1/2019 4:27:58] /m killer rabbit
+[6/1/2019 4:28:3] /attr health -11500
+[6/1/2019 4:28:6] /m killer rabbit
+[6/1/2019 4:28:11] /attr health -11500
+[6/1/2019 4:28:15] /m killer rabbit
+[6/1/2019 4:28:20] /attr health -11500
+[6/1/2019 4:29:57] /m pirate marauder
+[6/1/2019 4:30:45] /m pirate corsair
+[6/1/2019 4:30:57] /m zompire
+[6/1/2019 4:31:0] /attr health -11500
+[6/1/2019 4:31:2] /attr health -11500
+[6/1/2019 4:31:2] /attr health -11500
+[6/1/2019 4:31:3] /attr health -11500
+[6/1/2019 4:31:4] /attr health -11500
+[6/1/2019 4:31:15] /attr health -11500
+[6/1/2019 4:31:42] /m zompire
+[6/1/2019 4:34:54] /i shiver arrow 1
+[6/1/2019 4:35:1] /i shiver arrow
+[6/1/2019 4:35:25] /ghost
+[6/1/2019 4:35:47] /m zompire
+[6/1/2019 4:36:36] !itemfor Vinny, bow
+[6/1/2019 4:36:53] /itemfor Vinny, bow
+[6/1/2019 4:37:6] /i bow
+[6/1/2019 4:39:24] /m zompire
+[6/1/2019 4:39:59] /ghost
+[6/1/2019 4:40:4] /a 3
+[6/1/2019 4:40:14] /a 3
+[6/1/2019 4:40:18] /n promotion seller
+[6/1/2019 4:40:20] /n promotion seller
+[6/1/2019 4:40:22] /n promotion seller
+[6/1/2019 4:40:36] /goto vinny
+[6/1/2019 4:40:41] /a 2
+[6/1/2019 4:40:43] /ghost
+[6/1/2019 4:42:27] /m zompire
+[6/1/2019 4:42:37] /attr health - 20000
+[6/1/2019 4:42:47] /attr health -20000
+[6/1/2019 4:42:48] /attr health -20000
+[6/1/2019 4:42:50] /attr health -20000
+[6/1/2019 4:42:53] /attr health -20000
+[6/1/2019 4:42:57] /m zompire
+[6/1/2019 4:43:5] /attr health -100000
+[6/1/2019 4:43:14] /m zompire
+[6/1/2019 4:43:19] /attr health -60000
+[6/1/2019 4:43:56] /m zompira
+[6/1/2019 4:44:1] /m zompire
+[6/1/2019 4:44:5] /attr health -75000
+[6/1/2019 4:44:29] /m demon lord
+[6/1/2019 4:44:36] /attr health -75000
+[6/1/2019 4:45:25] /m mutated human
+[6/1/2019 4:45:51] /clean
+[6/1/2019 4:46:26] /m ravenous zombie
+[6/1/2019 4:49:32] /attr health -75000
+[6/1/2019 4:49:38] /attr health -75000
+[6/1/2019 4:49:40] /attr health -75000
+[6/1/2019 4:49:45] /attr health -750000
+[6/1/2019 4:50:12] /m sibang monkey
+[6/1/2019 4:50:16] /m sibang kongra
+[6/1/2019 4:50:20] /m kongra
+[6/1/2019 4:50:33] /m ferocious wolf
+[6/1/2019 4:51:10] /attr health -75000
+[6/1/2019 4:51:41] /attr health -20000
+[6/1/2019 4:51:47] /attr health -20000
+[6/1/2019 4:52:28] /m wolf
+[6/1/2019 4:52:35] /m cyclopse
+[6/1/2019 4:52:41] /m cyclops
+[6/1/2019 4:53:14] /dosay Infernalist, eu sou gay
+[6/1/2019 4:53:41] /m bear
+[6/1/2019 4:53:45] /m panda
+[6/1/2019 4:53:49] /m cat
+[6/1/2019 4:53:52] /m penguin
+[6/1/2019 4:53:57] /m hydros
+[6/1/2019 4:54:15] /attr health -75000
+[6/1/2019 4:54:19] /attr health -750000
+[6/1/2019 4:54:23] /attr health -75000
+[6/1/2019 4:54:24] /attr health -75000
+[6/1/2019 4:54:24] /attr health -75000
+[6/1/2019 4:54:25] /attr health -75000
+[6/1/2019 4:55:12] /clean
+[6/1/2019 4:55:35] /m zompire
+[6/1/2019 4:55:36] /attr health -75000
+[6/1/2019 4:55:53] /m zompire
+[6/1/2019 4:55:54] /attr health -75000
+[6/1/2019 4:56:21] /m zompire
+[6/1/2019 4:56:22] /attr health -75000
+[6/1/2019 4:56:32] /r
+[6/1/2019 4:56:36] /m orc leader
+[6/1/2019 4:56:46] /m giant spider
+[6/1/2019 4:56:50] /m zompire
+[6/1/2019 4:56:55] /attr health -75000
+[6/1/2019 4:57:0] /m zompire
+[6/1/2019 4:57:8] /m zompire
+[6/1/2019 4:57:10] /m zompire
+[6/1/2019 4:57:13] /attr health -75000
+[6/1/2019 4:57:15] /attr health -75000
+[6/1/2019 4:57:51] /m zompire
+[6/1/2019 4:57:52] /m zompire
+[6/1/2019 4:57:53] /attr health -75000
+[6/1/2019 4:57:54] /attr health -75000
+[6/1/2019 4:58:13] /attr health -75000
+[6/1/2019 4:58:19] /m zompire
+[6/1/2019 4:58:19] /m zompire
+[6/1/2019 4:58:21] /attr health -75000
+[6/1/2019 4:58:22] /attr health -75000
+[6/1/2019 4:58:42] /m zompire
+[6/1/2019 4:58:42] /m zompire
+[6/1/2019 4:58:43] /attr health -75000
+[6/1/2019 4:58:45] /attr health -75000
+[6/1/2019 4:59:37] /m wyrm
+[6/1/2019 4:59:52] /m ferumbras
+[6/1/2019 5:0:3] /m demondras
+[6/1/2019 5:0:6] /m demondra
+[6/1/2019 5:0:21] /r
+[6/1/2019 5:0:24] /m ferumbras
+[6/1/2019 5:0:45] /attr health -75000
+[6/1/2019 5:0:47] /attr health -75000
+[6/1/2019 5:0:54] /clean
+[6/1/2019 5:0:56] /clean
+[6/1/2019 5:0:58] /r
+[6/1/2019 5:0:59] /r
+[6/1/2019 5:1:2] /r
+[6/1/2019 5:1:12] /m sand brow
+[6/1/2019 5:1:23] /m sand worm
+[6/1/2019 5:1:39] /m illuminate zealot
+[6/1/2019 5:1:42] /m illuminate zealote
+[6/1/2019 5:1:51] /m illuminado zealot
+[6/1/2019 5:1:52] /m illuminado zealote
+[6/1/2019 5:2:1] /m valkyrie
+[6/1/2019 5:2:27] /m fire elemental
+[6/1/2019 5:2:35] /m fire bat
+[6/1/2019 5:2:43] /m fire devil
+[6/1/2019 5:2:54] /m juggernaught
+[6/1/2019 5:3:3] /m massacre
+[6/1/2019 5:3:17] /r
+[6/1/2019 5:3:21] /m juggernaut
+[6/1/2019 5:3:55] /m zwaht
+[6/1/2019 5:4:0] /m frog
+[6/1/2019 5:4:11] /m butterfly
+[6/1/2019 5:4:22] /m zyrm
+[6/1/2019 5:4:27] /m dragon
+[6/1/2019 5:4:29] /m dragon
+[6/1/2019 5:4:30] /m dragon
+[6/1/2019 5:4:31] /m dragon
+[6/1/2019 5:4:32] /m dragon
+[6/1/2019 5:4:34] /m dragon
+[6/1/2019 5:4:37] /m dragon
+[6/1/2019 5:4:39] /m dragon
+[6/1/2019 5:4:43] /m dragon
+[6/1/2019 5:4:45] /m hero
+[6/1/2019 5:4:47] /m hero
+[6/1/2019 5:4:49] /m hero
+[6/1/2019 5:4:50] /m hero
+[6/1/2019 5:4:56] /m elite hero
+[6/1/2019 5:4:57] /m elite hero
+[6/1/2019 5:5:1] /m dark knight
+[6/1/2019 5:5:6] /m apocalypse
+[6/1/2019 5:5:13] /r
+[6/1/2019 5:5:26] /clean
+[6/1/2019 5:5:31] /m parrot
+[6/1/2019 5:5:41] /m flamingo
+[6/1/2019 5:5:44] /m elephant
+[6/1/2019 5:5:50] /m zealok
+[6/1/2019 5:6:0] /m tyria
+[6/1/2019 5:6:7] /r
+[6/1/2019 5:6:20] /m carrion worm
+[6/1/2019 5:6:21] /m carrion worm
+[6/1/2019 5:6:21] /m carrion worm
+[6/1/2019 5:6:22] /m carrion worm
+[6/1/2019 5:6:22] /m carrion worm
+[6/1/2019 5:6:23] /m carrion worm
+[6/1/2019 5:6:23] /m carrion worm
+[6/1/2019 5:6:24] /m carrion worm
+[6/1/2019 5:6:53] /m killer rabbit
+[6/1/2019 5:6:56] /m zompire
+[6/1/2019 5:6:58] /m zompire
+[6/1/2019 5:7:0] /m zompire
+[6/1/2019 5:7:2] /r
+[6/1/2019 5:7:5] /m zompire
+[6/1/2019 5:7:8] /attr health -75000
+[6/1/2019 5:7:9] /attr health -75000
+[6/1/2019 5:7:26] /m killer rabbit
+[6/1/2019 5:7:27] /m killer rabbit
+[6/1/2019 5:7:47] /m killer rabbit
+[6/1/2019 5:7:51] /m killer rabbit
+[6/1/2019 5:8:28] /m dragon lord
+[6/1/2019 5:8:35] /m dragon lord
+[6/1/2019 5:8:40] /m dragon lord
+[6/1/2019 5:8:47] /m dragon lord
+[6/1/2019 5:8:51] /m zompire
+[6/1/2019 5:8:53] /m zompire
+[6/1/2019 5:8:55] /clean
+[6/1/2019 5:8:57] /r
+[6/1/2019 5:8:59] /r
+[6/1/2019 5:9:3] /m zompire
+[6/1/2019 5:9:4] /m zompire
+[6/1/2019 5:9:4] /attr health -75000
+[6/1/2019 5:9:6] /attr health -75000
+[6/1/2019 5:9:9] /m zompire
+[6/1/2019 5:9:9] /m zompire
+[6/1/2019 5:9:12] /attr health -75000
+[6/1/2019 5:9:16] /m zompire
+[6/1/2019 5:9:18] /attr health -75000
+[6/1/2019 5:9:19] /attr health -75000
+[6/1/2019 5:9:21] /attr health -75000
+[6/1/2019 5:9:21] /m zompire
+[6/1/2019 5:9:22] /attr health -75000
+[6/1/2019 5:9:23] /m zompire
+[6/1/2019 5:9:25] /attr health -75000
+[6/1/2019 5:9:27] /m zompire
+[6/1/2019 5:9:28] /m zompire
+[6/1/2019 5:9:31] /attr health -75000
+[6/1/2019 5:9:34] /m zompire
+[6/1/2019 5:9:36] /m zompire
+[6/1/2019 5:9:38] /attr health -75000
+[6/1/2019 5:9:40] /m zompire
+[6/1/2019 5:9:41] /attr health -75000
+[6/1/2019 5:9:42] /m zompire
+[6/1/2019 5:9:42] /attr health -75000
+[6/1/2019 5:9:43] /m zompire
+[6/1/2019 5:9:44] /attr health -75000
+[6/1/2019 5:9:45] /m zompire
+[6/1/2019 5:9:46] /attr health -75000
+[6/1/2019 5:9:46] /m zompire
+[6/1/2019 5:9:47] /attr health -75000
+[6/1/2019 5:9:48] /m zompire
+[6/1/2019 5:9:50] /m zompire
+[6/1/2019 5:9:51] /attr health -75000
+[6/1/2019 5:9:52] /m zompire
+[6/1/2019 5:9:54] /attr health -75000
+[6/1/2019 5:9:56] /m zompire
+[6/1/2019 5:9:57] /attr health -75000
+[6/1/2019 5:9:59] /m zompire
+[6/1/2019 5:10:1] /attr health -75000
+[6/1/2019 5:10:2] /m zompire
+[6/1/2019 5:10:4] /m zompire
+[6/1/2019 5:10:5] /attr health -75000
+[6/1/2019 5:10:7] /m zompire
+[6/1/2019 5:10:8] /attr health -75000
+[6/1/2019 5:10:9] /m zompire
+[6/1/2019 5:10:11] /attr health -75000
+[6/1/2019 5:10:12] /m zompire
+[6/1/2019 5:10:13] /attr health -75000
+[6/1/2019 5:10:15] /m zompire
+[6/1/2019 5:10:18] /attr health -75000
+[6/1/2019 5:10:19] /m zompire
+[6/1/2019 5:10:20] /m zompire
+[6/1/2019 5:10:21] /attr health -75000
+[6/1/2019 5:10:24] /m zompire
+[6/1/2019 5:10:26] /m zompire
+[6/1/2019 5:10:27] /attr health -75000
+[6/1/2019 5:10:34] /attr health -75000
+[6/1/2019 5:10:36] /m zompire
+[6/1/2019 5:10:38] /m zompire
+[6/1/2019 5:10:44] /attr health -75000
+[6/1/2019 5:10:45] /m zompire
+[6/1/2019 5:10:47] /m zompire
+[6/1/2019 5:10:49] /attr health -75000
+[6/1/2019 5:10:50] /m zompire
+[6/1/2019 5:10:54] /attr health -75000
+[6/1/2019 5:10:55] /m zompire
+[6/1/2019 5:11:1] /attr health -75000
+[6/1/2019 5:11:2] /m zompire
+[6/1/2019 5:11:22] /clean
+[6/1/2019 5:17:44] /m zompire
+[6/1/2019 5:17:48] /m zompire
+[6/1/2019 5:21:11] /m zompire
+[6/1/2019 5:21:11] /m zompire
+[6/1/2019 5:22:46] /m zompire
+[6/1/2019 5:22:47] /m zompire
+[6/1/2019 5:23:50] /m zompire
+[6/1/2019 5:23:51] /m zompire
+[6/1/2019 5:25:7] /m zompire
+[6/1/2019 5:25:8] /m zompire
+[6/1/2019 5:26:28] /m zompire
+[6/1/2019 5:26:29] /m zompire
+[6/1/2019 5:26:32] /attr health -75000
+[6/1/2019 5:26:34] /m zompire
+[6/1/2019 5:26:36] /attr health -75000
+[6/1/2019 5:26:37] /m zompire
+[6/1/2019 5:26:38] /attr health -75000
+[6/1/2019 5:26:39] /m zompire
+[6/1/2019 5:26:40] /attr health -75000
+[6/1/2019 5:26:42] /m zompire
+[6/1/2019 5:26:43] /attr health -75000
+[6/1/2019 5:26:45] /m zompire
+[6/1/2019 5:26:47] /m zompire
+[6/1/2019 5:26:48] /attr health -75000
+[6/1/2019 5:26:50] /m zompire
+[6/1/2019 5:26:51] /attr health -75000
+[6/1/2019 5:26:52] /m zompire
+[6/1/2019 5:26:53] /attr health -75000
+[6/1/2019 5:26:56] /m zompire
+[6/1/2019 5:26:57] /attr health -75000
+[6/1/2019 5:27:3] /m zompire
+[6/1/2019 5:28:1] /m zompire
+[6/1/2019 5:28:2] /m zompire
+[6/1/2019 5:29:6] /m zompire
+[6/1/2019 5:29:7] /m zompire
+[6/1/2019 5:30:8] /m zompire
+[6/1/2019 5:30:9] /m zompire
+[6/1/2019 5:31:7] /m zompire
+[6/1/2019 5:31:8] /m zompire
+[6/1/2019 5:31:10] /m zompire
+[6/1/2019 5:32:15] /m zompire
+[6/1/2019 5:32:15] /m zompire
+[6/1/2019 5:33:25] /m zompire
+[6/1/2019 5:33:25] /m zompire
+[6/1/2019 5:34:24] /m zompire
+[6/1/2019 5:34:25] /m zompire
+[6/1/2019 5:35:21] /m zompire
+[6/1/2019 5:35:22] /m zompire
+[6/1/2019 5:36:38] /m zompire
+[6/1/2019 5:36:38] /m zompire
+[6/1/2019 5:37:25] /m zompire
+[6/1/2019 5:37:26] /m zompire
+[6/1/2019 5:37:35] /m zompire
+[6/1/2019 5:38:27] /m zompire
+[6/1/2019 5:38:27] /m zompire
+[6/1/2019 5:39:5] /m zompire
+[6/1/2019 5:39:7] /m zompire
+[6/1/2019 5:39:19] /m zompire
+[6/1/2019 5:39:20] /m zompire
+[6/1/2019 5:39:23] /m zompire
+[6/1/2019 5:39:50] /m zompire
+[6/1/2019 5:40:1] /m zompire
+[6/1/2019 5:40:2] /m zompire
+[6/1/2019 5:44:36] /clean
+[6/1/2019 5:44:40] /r
+[6/1/2019 5:44:41] /r
+[6/1/2019 5:44:42] /r
+[6/1/2019 5:44:43] /r
+[6/1/2019 5:44:50] /i 4608
+[6/1/2019 5:44:52] /i 4608
+[6/1/2019 5:44:55] /a
+[6/1/2019 6:17:32] /ghost
+[6/1/2019 6:21:13] /goto Skrey Westcoas
+[6/1/2019 6:21:16] /goto Skrey Westcoas
+[6/1/2019 6:21:29] /goto Skrey Westcoast
+[6/1/2019 6:21:47] /goto Infernalist
+[6/1/2019 6:23:6] /i collapser orb
+[6/1/2019 13:4:57] /goto Skrey Westcoast
+[6/1/2019 13:5:43] /up
+[6/1/2019 13:5:48] /down
+[6/1/2019 13:6:7] /t
+[6/1/2019 13:10:0] /reload talkactions
+[6/1/2019 13:10:5] /masterlogin Skrey Westcoast
+[6/1/2019 13:11:26] /reload talkactions
+[6/1/2019 13:13:5] /info Maniipulador
+[6/1/2019 13:14:33] /i 7722
+[6/1/2019 13:15:31] /i 7839
+[6/1/2019 13:15:37] /i 2546
+[6/1/2019 19:52:29] /goto maniipulador
+[6/1/2019 19:53:0] /ghost
+[6/1/2019 19:53:18] /a 3
+[6/1/2019 19:53:22] /a 2
+[6/1/2019 19:54:43] /ghost
+[6/1/2019 19:54:45] /goto Henrique Shooter
+[6/1/2019 19:55:26] /t
+[6/1/2019 19:55:39] /ghost
+[6/1/2019 19:55:41] /r
+[6/1/2019 19:58:9] /a 5
+[6/1/2019 19:58:9] /a 5
+[6/1/2019 19:58:10] /a 5
+[6/1/2019 19:58:10] /a 5
+[6/1/2019 19:58:11] /a 5
+[6/1/2019 19:58:11] /a 5
+[6/1/2019 19:58:12] /a 5
+[6/1/2019 19:58:13] /a 5
+[6/1/2019 19:58:13] /a 5
+[6/1/2019 19:58:14] /a 5
+[6/1/2019 19:58:15] /a 5
+[6/1/2019 19:58:15] /a 5
+[6/1/2019 19:58:16] /a 5
+[6/1/2019 19:58:16] /a 5
+[6/1/2019 19:58:17] /a 5
+[6/1/2019 19:58:17] /a 5
+[6/1/2019 19:58:18] /a 5
+[6/1/2019 19:58:19] /a 5
+[6/1/2019 19:58:20] /a 5
+[6/1/2019 19:58:23] /a 5
+[6/1/2019 19:58:24] /a 5
+[6/1/2019 19:58:35] /a 2
+[6/1/2019 19:58:36] /a 2
+[6/1/2019 19:58:36] /a 2
+[6/1/2019 19:58:37] /a 2
+[6/1/2019 20:1:33] /a 2
+[6/1/2019 20:6:55] /goto ferumbras
+[6/1/2019 20:7:3] /a 2
+[6/1/2019 20:7:8] /a 5
+[6/1/2019 20:7:8] /a 5
+[6/1/2019 20:7:21] /a 2
+[6/1/2019 20:7:25] /a 2
+[6/1/2019 20:7:27] /a 2
+[6/1/2019 20:7:36] /goto henrique
+[6/1/2019 20:8:24] /attr setspeed 1000
+[6/1/2019 20:8:30] /attr basespeed 1000
+[6/1/2019 20:9:15] /a 2
+[6/1/2019 20:45:23] /ghost
+[6/1/2019 20:45:46] /ghost
+[6/1/2019 21:3:32] /a 2
+[6/1/2019 21:3:33] /a 2
+[6/1/2019 21:17:50] /s trainer
+[6/1/2019 21:18:3] /r
+[6/1/2019 21:19:13] /say Henrique,diablo flam
+[6/1/2019 21:19:56] /say Henrique,diablo flam
+[6/1/2019 21:19:56] /say Henrique,diablo flam
+[6/1/2019 21:19:56] /say Henrique,diablo flam
+[6/1/2019 21:20:33] /r
+[6/1/2019 21:20:55] /a
+[6/1/2019 21:20:56] /a
+[6/1/2019 21:20:57] /a
+[6/1/2019 21:20:57] /a
+[6/1/2019 21:20:59] /a
+[6/1/2019 21:20:59] /a
+[6/1/2019 21:21:1] /a
+[6/1/2019 21:21:4] /s trainer
+[6/1/2019 21:21:24] /addskill Administrator,level,3000
+[6/1/2019 21:22:16] /s triton
+[6/1/2019 21:22:17] /s jaws
+[6/1/2019 21:22:20] /s kraken
+[6/1/2019 21:22:22] /s blastoise
+[6/1/2019 21:22:32] /s azrail
+[6/1/2019 21:27:9] /addorbs
+[6/1/2019 21:27:15] /addorbs Administrator, 5
+[6/1/2019 21:27:42] !tradeorbs Henrique, 2
+[6/1/2019 21:28:10] !tradeorbs Henrique, 1
+[6/1/2019 21:29:14] /addorbs henrique, 1
+[6/1/2019 21:34:19] /down
+[6/1/2019 21:34:25] /a 5
+[6/1/2019 21:34:26] /a 5
+[6/1/2019 21:38:32] /a 2
+[6/1/2019 21:39:8] /a 2
+[6/1/2019 21:44:34] /goto 756, 1173, 8
+[6/1/2019 21:44:36] /c henrique
+[6/1/2019 21:46:50] /attr basespeed 1000
+[6/1/2019 21:47:13] /a 5
+[6/1/2019 21:47:13] /a 5
+[6/1/2019 21:47:14] /a 5
+[6/1/2019 21:47:14] /a 5
+[6/1/2019 21:47:15] /a 5
+[6/1/2019 21:47:15] /a 5
+[6/1/2019 21:47:15] /a 5
+[6/1/2019 21:47:16] /a 5
+[6/1/2019 21:47:17] /a 5
+[6/1/2019 21:47:42] /goto henrique
+[6/1/2019 21:47:53] /a 2
+[6/1/2019 21:48:13] /owner henrique
+[6/1/2019 21:48:34] /c henrique
+[6/1/2019 21:50:18] /owner 356346
+[6/1/2019 21:50:27] /owner Administrator
+[6/1/2019 21:52:21] /a 2
+[6/1/2019 21:52:28] /a 3
+[6/1/2019 21:52:34] /a 2
+[6/1/2019 21:52:37] /owner henrique
+[6/1/2019 21:53:9] /a 2
+[6/1/2019 21:53:20] /a 2
+[6/1/2019 21:53:20] /a 2
+[6/1/2019 21:53:31] /a 5
+[6/1/2019 21:53:58] /goto 756, 1173, 8
+[6/1/2019 21:54:1] /c henrique
+[6/1/2019 21:54:12] /a 10
+[6/1/2019 21:54:13] /a 10
+[6/1/2019 21:54:14] /a 10
+[6/1/2019 21:54:16] /a 10
+[6/1/2019 21:54:16] /a 10
+[6/1/2019 21:54:16] /a 10
+[6/1/2019 21:54:20] /a 10
+[6/1/2019 21:54:20] /a 10
+[6/1/2019 21:54:21] /a 10
+[6/1/2019 21:54:22] /a 10
+[6/1/2019 21:54:29] /owner Administrator
+[6/1/2019 21:54:56] /goto 756, 1173, 8
+[6/1/2019 21:55:1] /a 10
+[6/1/2019 21:55:2] /a 10
+[6/1/2019 21:55:3] /a 10
+[6/1/2019 21:55:3] /a 10
+[6/1/2019 21:55:4] /a 10
+[6/1/2019 21:55:5] /a 10
+[6/1/2019 21:55:6] /a 10
+[6/1/2019 21:55:7] /a 10
+[6/1/2019 21:55:8] /a 10
+[6/1/2019 21:55:20] /a 10
+[6/1/2019 21:55:22] /a 10
+[6/1/2019 21:55:25] /a 10
+[6/1/2019 21:55:27] /a 10
+[6/1/2019 21:55:30] /a 10
+[6/1/2019 21:55:30] /a 10
+[6/1/2019 21:55:30] /a 10
+[6/1/2019 21:55:32] /a 10
+[6/1/2019 21:55:34] /a 10
+[6/1/2019 21:55:35] /a 10
+[6/1/2019 21:55:36] /a 10
+[6/1/2019 21:55:36] /a 10
+[6/1/2019 21:55:38] /a 10
+[6/1/2019 21:55:42] /a 10
+[6/1/2019 21:56:21] /a 10
+[6/1/2019 21:56:23] /a 10
+[6/1/2019 21:56:24] /a 10
+[6/1/2019 21:56:25] /a 10
+[6/1/2019 21:56:26] /a 10
+[6/1/2019 21:56:26] /a 10
+[6/1/2019 21:56:27] /a 10
+[6/1/2019 21:56:27] /a 10
+[6/1/2019 21:56:36] /a 5
+[6/1/2019 21:56:37] /a 5
+[6/1/2019 21:56:37] /a 5
+[6/1/2019 21:56:38] /a 5
+[6/1/2019 21:56:38] /a 5
+[6/1/2019 21:56:39] /a 5
+[6/1/2019 21:56:39] /a 5
+[6/1/2019 21:56:40] /a 5
+[6/1/2019 21:56:40] /a 5
+[6/1/2019 21:56:42] /a 5
+[6/1/2019 21:56:43] /a 5
+[6/1/2019 21:56:43] /a 5
+[6/1/2019 21:56:44] /a 5
+[6/1/2019 21:56:45] /a 5
+[6/1/2019 21:56:46] /a 5
+[6/1/2019 21:56:46] /a 5
+[6/1/2019 21:56:46] /a 5
+[6/1/2019 21:56:47] /a 5
+[6/1/2019 21:56:47] /a 5
+[6/1/2019 21:56:47] /a 5
+[6/1/2019 21:56:48] /a 5
+[6/1/2019 21:56:48] /a 5
+[6/1/2019 21:56:49] /a 5
+[6/1/2019 21:56:50] /a 5
+[6/1/2019 21:56:50] /a 5
+[6/1/2019 21:56:50] /a 5
+[6/1/2019 21:56:51] /a 5
+[6/1/2019 21:56:52] /a 5
+[6/1/2019 21:56:52] /a 5
+[6/1/2019 21:56:54] /a 5
+[6/1/2019 21:56:54] /a 5
+[6/1/2019 21:56:55] /a 5
+[6/1/2019 21:56:56] /a 5
+[6/1/2019 21:56:57] /a 5
+[6/1/2019 21:56:57] /a 5
+[6/1/2019 21:56:58] /a 5
+[6/1/2019 21:57:0] /a 5
+[6/1/2019 21:57:0] /a 5
+[6/1/2019 21:57:1] /a 5
+[6/1/2019 21:57:2] /a 5
+[6/1/2019 21:57:2] /a 5
+[6/1/2019 21:57:3] /a 5
+[6/1/2019 21:57:5] /a 10
+[6/1/2019 21:57:6] /a 10
+[6/1/2019 21:57:7] /a 10
+[6/1/2019 21:57:7] /a 10
+[6/1/2019 21:57:8] /a 10
+[6/1/2019 21:57:8] /a 10
+[6/1/2019 21:57:9] /a 10
+[6/1/2019 21:57:10] /a 10
+[6/1/2019 21:57:10] /a 10
+[6/1/2019 21:57:11] /a 10
+[6/1/2019 21:57:12] /a 10
+[6/1/2019 21:57:12] /a 10
+[6/1/2019 21:57:12] /a 10
+[6/1/2019 21:57:13] /a 10
+[6/1/2019 21:57:13] /a 10
+[6/1/2019 21:57:14] /a 10
+[6/1/2019 21:57:14] /a 10
+[6/1/2019 21:57:15] /a 10
+[6/1/2019 21:57:16] /a 10
+[6/1/2019 21:57:16] /a 10
+[6/1/2019 21:57:17] /a 10
+[6/1/2019 21:57:17] /a 10
+[6/1/2019 21:57:20] /a 10
+[6/1/2019 21:57:23] /a 10
+[6/1/2019 21:57:23] /a 10
+[6/1/2019 21:57:54] /a 10
+[6/1/2019 21:57:54] /a 10
+[6/1/2019 21:57:55] /a 10
+[6/1/2019 21:57:55] /a 10
+[6/1/2019 21:57:56] /a 10
+[6/1/2019 21:57:56] /a 10
+[6/1/2019 21:57:57] /a 10
+[6/1/2019 21:57:58] /a 10
+[6/1/2019 21:57:59] /a 10
+[6/1/2019 21:58:7] /a 10
+[6/1/2019 21:58:7] /a 10
+[6/1/2019 21:58:8] /a 10
+[6/1/2019 21:58:9] /a 10
+[6/1/2019 21:58:10] /a 10
+[6/1/2019 21:58:11] /a 10
+[6/1/2019 21:58:14] /a 10
+[6/1/2019 21:58:14] /a 10
+[6/1/2019 21:58:15] /a 10
+[6/1/2019 21:58:15] /a 10
+[6/1/2019 21:58:16] /a 10
+[6/1/2019 21:58:18] /a 10
+[6/1/2019 21:58:18] /a 10
+[6/1/2019 21:58:19] /a 10
+[6/1/2019 21:58:19] /a 10
+[6/1/2019 21:58:20] /a 10
+[6/1/2019 21:58:20] /a 10
+[6/1/2019 21:58:21] /a 10
+[6/1/2019 21:58:22] /a 10
+[6/1/2019 21:58:23] /a 10
+[6/1/2019 21:58:26] /goto henrique
+[6/1/2019 21:58:49] /goto 756, 1173, 8
+[6/1/2019 21:58:52] /c henrique
+[6/1/2019 22:0:31] /a 2
+[6/1/2019 22:0:45] /owner Administrator
+[6/1/2019 22:1:4] /a 3
+[6/1/2019 22:1:12] /a 3
+[6/1/2019 22:2:15] /a 3
+[6/1/2019 22:2:44] /a 5
+[6/1/2019 22:3:32] /a 2
+[6/1/2019 22:3:42] /a 2
+[6/1/2019 22:5:52] /a 2
+[6/1/2019 22:6:49] /a 5
+[6/1/2019 22:6:50] /a 5
+[6/1/2019 22:7:8] /goto henrique
+[6/1/2019 22:7:40] /a 2
+[6/1/2019 22:8:11] /owner Administrator
+[6/1/2019 22:8:49] /a 2
+[6/1/2019 22:9:18] /a 5
+[6/1/2019 22:9:28] /a 2
+[6/1/2019 22:9:41] /owner administrator
+[6/1/2019 22:9:53] /a 2
+[6/1/2019 22:11:50] /goto henrique
+[6/1/2019 22:12:28] /a 2
+[6/1/2019 22:12:34] /a 2
+[6/1/2019 22:12:35] /a 2
+[6/1/2019 22:12:40] /a 2
+[6/1/2019 22:12:56] /owner Administrator
+[6/1/2019 22:15:1] /a 2
+[6/1/2019 22:15:45] /a 2
+[6/1/2019 22:15:47] /owner Administrator
+[6/1/2019 22:16:9] /a 5
+[6/1/2019 22:16:24] /a 2
+[6/1/2019 22:16:28] /owner Administrator
+[6/1/2019 22:16:44] /a 2
+[6/1/2019 22:17:2] /c henrique
+[6/1/2019 22:17:22] /a 5
+[6/1/2019 22:17:23] /a 5
+[6/1/2019 22:17:23] /a 5
+[6/1/2019 22:17:24] /a 5
+[6/1/2019 22:17:25] /a 5
+[6/1/2019 22:17:25] /a 5
+[6/1/2019 22:17:27] /a 5
+[6/1/2019 22:17:27] /a 5
+[6/1/2019 22:17:27] /a 5
+[6/1/2019 22:17:28] /a 5
+[6/1/2019 22:17:28] /a 5
+[6/1/2019 22:19:18] /a 2
+[6/1/2019 22:19:22] /owner Administrator
+[6/1/2019 22:19:47] /a 2
+[6/1/2019 22:19:58] /a 2
+[6/1/2019 22:20:9] /c henrique
+[6/1/2019 22:20:17] /a 2
+[6/1/2019 22:20:25] /a 2
+[6/1/2019 22:21:1] /attr basespeed 2000
+[6/1/2019 22:21:6] /attr basespeed 2000
+[6/1/2019 22:21:7] /attr basespeed 2000
+[6/1/2019 22:21:19] /a 2
+[6/1/2019 22:21:22] /a 2
+[6/1/2019 22:21:46] /a 2
+[6/1/2019 22:21:46] /owner Administrator
+[6/1/2019 22:21:59] /a 2
+[6/1/2019 22:23:28] /a 2
+[6/1/2019 22:23:35] /a 2
+[6/1/2019 22:23:56] /a 2
+[6/1/2019 22:23:58] /owner Administrator
+[6/1/2019 22:24:3] /a 2
+[6/1/2019 22:24:35] /a 2
+[6/1/2019 22:24:51] /a 2
+[6/1/2019 22:24:54] /a 2
+[6/1/2019 22:24:56] /a 2
+[6/1/2019 22:25:2] /a 2
+[6/1/2019 22:25:46] /goto 756, 1173, 8
+[6/1/2019 22:25:48] /c henrique
+[6/1/2019 22:25:55] /a 10
+[6/1/2019 22:26:11] /cliport
+[6/1/2019 22:26:32] /a 2
+[6/1/2019 22:26:37] /owner Administrator
+[6/1/2019 22:27:40] /a 2
+[6/1/2019 22:28:15] /a 5
+[6/1/2019 22:28:50] /t henrique
+[6/1/2019 22:28:50] /t
+[6/1/2019 22:29:56] /ghost
+[7/1/2019 3:31:12] /reports
+[7/1/2019 3:31:19] /reports
+[7/1/2019 3:32:35] /reload lib
+[7/1/2019 3:32:37] /reload libs
+[7/1/2019 3:32:40] /reload actions
+[7/1/2019 3:34:13] /reports
+[7/1/2019 3:35:59] /reports 1
+[7/1/2019 3:52:23] /reports 1
+[7/1/2019 3:52:24] /reports 1
+[7/1/2019 3:52:30] /reports 1
+[7/1/2019 3:53:40] /i death ring
+[7/1/2019 3:56:5] /goto Skrey Westcoast
+[7/1/2019 3:56:21] /goto Thacio
+[7/1/2019 3:56:33] /dosay Thacio, sou uma bixona
+[7/1/2019 3:56:34] /up
+[7/1/2019 3:56:42] /dosay Thacio, sou uma bixona das grandes
+[7/1/2019 3:56:56] /goto Skrey Westcoast
+[7/1/2019 3:57:1] /goto Skrey Westcoast
+[7/1/2019 3:57:3] /goto Skrey Westcoast
+[7/1/2019 3:57:4] /goto Skrey Westcoast
+[7/1/2019 3:57:12] /goto Skrey Westcoast
+[7/1/2019 3:57:28] /goto Skrey Westcoast
+[7/1/2019 3:57:30] /goto Skrey Westcoast
+[7/1/2019 4:1:3] /reports
+[7/1/2019 4:1:55] /reports 1
+[7/1/2019 4:1:59] /reports
+[7/1/2019 4:2:4] /reports 2
+[7/1/2019 4:2:20] /reports
+[7/1/2019 4:2:21] /reports
+[7/1/2019 4:2:23] /reports 1
+[7/1/2019 4:2:26] /reports 2
+[7/1/2019 4:2:28] /reports 3
+[7/1/2019 4:2:51] /reload items
+[7/1/2019 4:2:59] /reports 1
+[7/1/2019 4:3:29] /reports
+[7/1/2019 4:5:33] /goto Thacio
+[7/1/2019 4:6:27] /ghost
+[7/1/2019 4:18:12] /dosay Thacio, pior que é mesmo
+[7/1/2019 4:18:33] /dosay Thacio, mulher enchendo o saco aqui
+[7/1/2019 4:18:40] /dosay Thacio, já vou dormir no sofá
+[7/1/2019 4:18:48] /dosay Thacio, fica me azarando
+[7/1/2019 4:21:1] /reload items
+[7/1/2019 4:21:47] /ghost
+[7/1/2019 4:21:55] /up
+[7/1/2019 4:21:56] /up
+[7/1/2019 4:25:8] /addskill Nidalee, shield, 10
+[7/1/2019 4:25:15] /addskill Nidalee, shielding, 1
+[7/1/2019 4:25:18] /addskill Nidalee, shielding
+[7/1/2019 4:25:20] /addskill Nidalee, shield
+[7/1/2019 4:25:27] /addskill Nidalee, exp 1
+[7/1/2019 4:25:34] /addskill Nidalee, fishing
+[7/1/2019 4:25:40] /addskill Nidalee, shielding
+[7/1/2019 4:25:43] /addskill Nidalee, shield
+[7/1/2019 4:27:9] /kick Nidalee
+[7/1/2019 4:27:34] /addskill Nidalee, shielding
+[7/1/2019 4:27:40] /addskill Nidalee, shielding, 10
+[7/1/2019 4:29:30] /reports
+[7/1/2019 4:29:52] /goto Henrique
+[7/1/2019 4:30:1] /dosay Henrique, <3
+[7/1/2019 4:30:15] /dosay Henrique, <3 rola...
+[7/1/2019 4:30:31] /dosay Henrique, Ctrl+Z
+[7/1/2019 4:33:44] /save
+[7/1/2019 4:34:3] /bc o
+[7/1/2019 4:34:5] /bc o o
+[7/1/2019 4:34:25] /bc green Some bug fixes (Restart Server is necessary)
+[7/1/2019 4:34:33] /save
+[7/1/2019 4:34:38] /shutdown 3
+[7/1/2019 4:42:20] /reports
+[7/1/2019 4:42:24] /reports 1
+[7/1/2019 4:42:26] /reports 2
+[7/1/2019 4:43:20] /reports
+[7/1/2019 4:54:10] /reload talkactions
+[7/1/2019 4:57:22] /bc . Sorry, another bug fix
+[7/1/2019 4:57:24] /save
+[7/1/2019 4:57:26] /shutdown
+[7/1/2019 4:59:28] /m rat
+[7/1/2019 5:4:43] /reload talkactions
+[7/1/2019 5:5:26] /addskill Knight Sample, exp, 5000
+[7/1/2019 5:5:40] /attr group 7
+[7/1/2019 5:5:48] /attr group 10
+[7/1/2019 5:5:51] /attr group 9
+[7/1/2019 5:6:4] /attr group 1
+[7/1/2019 13:5:36] /goto henrique
+[7/1/2019 13:6:0] /goto Maniipulador
+[7/1/2019 13:7:20] /t
+[7/1/2019 13:7:48] /goto Skrey Westcoast
+[7/1/2019 13:7:59] /goto al rashid
+[7/1/2019 13:8:6] /goto Henrique
+[7/1/2019 13:8:8] /goto Henrique
+[7/1/2019 13:8:10] /goto Henrique
+[7/1/2019 13:8:10] /goto Henrique
+[7/1/2019 13:8:11] /goto Henrique
+[7/1/2019 13:8:15] /a 5
+[7/1/2019 13:8:16] /a 5
+[7/1/2019 13:8:16] /a 5
+[7/1/2019 13:8:18] /a 5
+[7/1/2019 13:8:20] /a 5
+[7/1/2019 13:8:22] /a 5
+[7/1/2019 13:8:23] /ghost
+[7/1/2019 13:8:28] /a 2
+[7/1/2019 13:10:38] /changelevel 250
+[7/1/2019 13:11:30] /t
+[7/1/2019 13:11:39] /a 2
+[7/1/2019 13:11:41] /a 2
+[7/1/2019 13:19:17] /a
+[7/1/2019 13:19:18] /a
+[7/1/2019 13:19:22] /a
+[7/1/2019 13:19:23] /a
+[7/1/2019 13:20:29] /say Lady Diabolic,diablo flam
+[7/1/2019 13:20:29] /say Lady Diabolic,diablo flam
+[7/1/2019 13:20:29] /say Lady Diabolic,diablo flam
+[7/1/2019 13:20:47] /say Lady Demoniac,diablo flam
+[7/1/2019 13:20:47] /say Lady Demoniac,diablo flam
+[7/1/2019 13:20:47] /say Lady Demoniac,diablo flam
+[7/1/2019 13:21:39] /say Lady Demoniac,diablo flam
+[7/1/2019 13:21:39] /say Lady Demoniac,diablo flam
+[7/1/2019 13:21:40] /say Lady Demoniac,diablo flam
+[7/1/2019 13:21:40] /say Lady Demoniac,diablo flam
+[7/1/2019 13:21:45] /m trainer
+[7/1/2019 13:21:55] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:55] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:56] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:56] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:56] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:57] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:57] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:58] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:58] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:58] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:21:59] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:0] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:4] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:5] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:6] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:6] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:6] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:7] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:9] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:9] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:9] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:10] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:10] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:11] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:11] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:11] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:22:39] /m s
+[7/1/2019 13:22:46] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:12] /m demon
+[7/1/2019 13:23:12] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:12] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:13] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:13] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:13] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:13] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:14] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:15] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:16] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:26] /r
+[7/1/2019 13:23:30] /r
+[7/1/2019 13:23:52] /m demon
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:53] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:23:54] /say Lady Demoniac,vis lux
+[7/1/2019 13:24:19] /r
+[7/1/2019 13:24:28] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:28] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:29] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:29] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:45] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:46] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:48] /m trainer
+[7/1/2019 13:24:48] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:49] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:49] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:49] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:49] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:50] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:51] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:53] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:55] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:55] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:56] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:56] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:56] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:57] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:57] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:57] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:24:57] /say Lady Demoniac,gran mort grav
+[7/1/2019 13:25:5] /say Lady Demoniac,diablo flam
+[7/1/2019 13:25:5] /say Lady Demoniac,diablo flam
+[7/1/2019 13:25:6] /say Lady Demoniac,diablo flam
+[7/1/2019 13:25:18] /say Lady Demoniac,tera hur
+[7/1/2019 13:25:32] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:33] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:33] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:34] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:34] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:34] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:34] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:35] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:35] /say Lady Demoniac,con drunk
+[7/1/2019 13:25:53] /r
+[7/1/2019 13:29:1] /m demon
+[7/1/2019 13:29:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:1] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:2] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:3] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:8] /r
+[7/1/2019 13:29:20] /m demon lord
+[7/1/2019 13:29:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:21] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:22] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:23] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:24] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:24] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:24] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:24] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:24] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:25] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:25] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:25] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:28] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:28] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:28] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:31] /r
+[7/1/2019 13:29:34] /m demon
+[7/1/2019 13:29:35] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:35] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:35] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:35] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:35] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:36] /say Lady Demoniac,vis lux
+[7/1/2019 13:29:40] /r
+[7/1/2019 13:33:38] /a 2
+[7/1/2019 13:33:44] /a 2
+[7/1/2019 13:33:47] /a 2
+[7/1/2019 13:33:55] /a 2
+[7/1/2019 13:34:0] /a 2
+[7/1/2019 13:34:1] /a 2
+[7/1/2019 13:34:4] /a 2
+[7/1/2019 13:34:9] /a 2
+[7/1/2019 13:36:57] /ghost
+[7/1/2019 13:36:58] /t
+[7/1/2019 13:52:41] /say Administrator, vis lux
+[7/1/2019 13:52:45] /say Administrator, vis lux
+[7/1/2019 13:52:53] /say Administrator, grav mort
+[7/1/2019 13:52:54] /say Administrator, grav mort
+[7/1/2019 13:55:7] /i 7839
+[7/1/2019 14:0:10] /reports
+[7/1/2019 14:0:13] /reports 2
+[7/1/2019 14:0:16] /reports 1
+[7/1/2019 14:5:38] /n kaelthas
+[7/1/2019 14:5:44] /r
+[7/1/2019 14:9:23] /i health potion
+[7/1/2019 14:10:26] /reload npc
+[7/1/2019 14:18:32] /reload npc
+[7/1/2019 14:18:35] /n Zack
+[7/1/2019 14:18:49] /r
+[7/1/2019 14:19:36] /reload npc
+[7/1/2019 14:19:38] /n Zack
+[7/1/2019 14:20:7] /reload npc
+[7/1/2019 14:20:33] /reload npc
+[7/1/2019 14:24:39] /reload npc
+[7/1/2019 14:24:40] /r
+[7/1/2019 14:24:42] /n Zack
+[7/1/2019 14:27:38] /reload npc
+[7/1/2019 14:27:43] /n Calaelen
+[7/1/2019 14:29:47] /t
+[7/1/2019 14:29:55] /i 426
+[7/1/2019 14:29:59] /i 426
+[7/1/2019 14:30:1] /i 426
+[7/1/2019 14:30:3] /i 426
+[7/1/2019 14:30:8] /i 426
+[7/1/2019 14:30:10] /i 426
+[7/1/2019 14:30:11] /i 426
+[7/1/2019 14:30:20] /i 426
+[7/1/2019 14:30:25] /i 426
+[7/1/2019 14:30:31] /i 426
+[7/1/2019 14:30:33] /i 426
+[7/1/2019 14:30:38] /i 426
+[7/1/2019 14:30:43] /i 426
+[7/1/2019 14:30:54] /i 7144
+[7/1/2019 14:30:56] /r
+[7/1/2019 14:31:7] /r
+[7/1/2019 14:31:10] /i 5005
+[7/1/2019 14:31:50] /i 5005
+[7/1/2019 14:31:52] /r
+[7/1/2019 14:31:55] /r
+[7/1/2019 14:32:1] /i 1649
+[7/1/2019 14:32:8] /i 426
+[7/1/2019 14:32:12] /i 426
+[7/1/2019 14:32:17] /i 426
+[7/1/2019 14:32:19] /i 426
+[7/1/2019 14:51:20] /goto Lady Demoniac 
+[7/1/2019 14:52:11] /goto Al Rashid
+[7/1/2019 14:52:25] /goto Skrey Westcoast
+[7/1/2019 14:52:41] /up
+[7/1/2019 14:52:46] /up
+[7/1/2019 14:52:48] /up
+[7/1/2019 14:52:49] /up
+[7/1/2019 14:53:41] /goto Henrique
+[7/1/2019 14:53:58] /goto lady demoniac
+[7/1/2019 15:3:28] /goto lady demoniac
+[7/1/2019 15:3:31] /goto henrique
+[7/1/2019 15:4:28] /goto lady demoniac
+[7/1/2019 15:4:32] /a 2
+[7/1/2019 15:4:43] /t
+[7/1/2019 16:33:49] /bc green Some Updates! Restart is required...
+[7/1/2019 16:33:53] /shutdown 3
+[7/1/2019 16:34:24] /save
+[7/1/2019 16:35:37] /save
+[7/1/2019 16:46:10] /goto lady demoniac
+[7/1/2019 16:46:44] /t
+[7/1/2019 16:50:50] /game
+[7/1/2019 16:50:55] /game
+[7/1/2019 16:51:5] /game
+[7/1/2019 16:51:9] /ghost
+[7/1/2019 16:51:13] /game
+[7/1/2019 16:52:58] /game
+[7/1/2019 16:53:11] /i 2389
+[7/1/2019 16:53:27] /game
+[7/1/2019 16:54:54] /game
+[7/1/2019 16:54:57] /ghost
+[7/1/2019 16:57:5] /i 2456
+[7/1/2019 16:59:5] /t
+[7/1/2019 17:2:2] /up
+[7/1/2019 17:2:19] /up
+[7/1/2019 17:2:21] /up
+[7/1/2019 22:0:36] /mc
+[7/1/2019 22:3:58] /game
+[7/1/2019 22:18:9] /game
+[7/1/2019 22:18:14] /reload XML
+[7/1/2019 22:18:17] /reload xml
+[7/1/2019 22:18:19] /reload admin
+[7/1/2019 22:18:21] /reload admin.xml
+[7/1/2019 22:36:37] /reports
+[7/1/2019 22:36:41] /reports 2
+[7/1/2019 22:36:44] /reports 1
+[8/1/2019 1:47:23] /reports
+[8/1/2019 1:47:26] /reports 1
+[8/1/2019 1:47:29] /reports 2
+[8/1/2019 1:50:47] /i 2589
+[8/1/2019 1:50:50] /r
+[8/1/2019 1:50:52] /r all
+[8/1/2019 1:53:22] /i 425
+[8/1/2019 1:53:25] /i 426
+[8/1/2019 1:54:33] /reload movements
+[8/1/2019 2:0:32] /reload movements
+[8/1/2019 2:0:39] /game
+[8/1/2019 2:0:42] /game
+[8/1/2019 2:0:49] /ghost
+[8/1/2019 2:0:50] /game
+[8/1/2019 2:3:42] /game
+[8/1/2019 2:4:57] /i 413
+[8/1/2019 2:5:19] /i 417
+[8/1/2019 2:5:33] /i 426
+[8/1/2019 2:5:55] /game
+[8/1/2019 2:7:25] /game
+[8/1/2019 2:7:29] /game
+[8/1/2019 2:7:35] /game
+[8/1/2019 2:7:38] /i 11063
+[8/1/2019 2:7:40] /r
+[8/1/2019 2:16:44] /ghost
+[8/1/2019 2:16:57] /i 11059
+[8/1/2019 2:17:7] /i 4526
+[8/1/2019 2:17:21] /i 11059
+[8/1/2019 2:20:17] /i 426
+[8/1/2019 2:25:51] /reload movements
+[8/1/2019 2:26:35] /reload movements
+[8/1/2019 2:27:58] /reload movements
+[8/1/2019 2:28:26] /reload movements
+[8/1/2019 2:33:43] /reload movements
+[8/1/2019 2:34:34] /reload movements
+[8/1/2019 2:35:17] /r
+[8/1/2019 2:35:19] /r
+[8/1/2019 2:35:33] /r
+[8/1/2019 2:35:34] /a 1
+[8/1/2019 2:35:36] /a 1
+[8/1/2019 2:36:38] /reload movements
+[8/1/2019 2:37:29] /reload movements
+[8/1/2019 2:41:31] /reload movements
+[8/1/2019 2:43:15] /reload movements
+[8/1/2019 2:43:48] /reload movements
+[8/1/2019 2:44:39] /reload movements
+[8/1/2019 2:45:9] /reload movements
+[8/1/2019 2:45:26] /reload movements
+[8/1/2019 2:46:1] /reload movements
+[8/1/2019 2:46:36] /reload movements
+[8/1/2019 2:46:57] /reload movements
+[8/1/2019 2:49:20] /reload movements
+[8/1/2019 2:52:29] /reload movements
+[8/1/2019 3:1:4] /reload movements
+[8/1/2019 3:2:41] /reload movements
+[8/1/2019 3:3:2] /reload movements
+[8/1/2019 3:9:31] /reload movements
+[8/1/2019 3:10:39] /reload movements
+[8/1/2019 3:10:56] /reload movements
+[8/1/2019 3:11:16] /reload movements
+[8/1/2019 3:11:45] /reload movements
+[8/1/2019 3:12:4] /reload movements
+[8/1/2019 3:15:8] /down 2
+[8/1/2019 3:15:9] /down
+[8/1/2019 3:15:23] /game
+[8/1/2019 3:15:28] /game
+[8/1/2019 3:15:31] /ghost
+[8/1/2019 3:15:33] /game
+[8/1/2019 3:18:50] /game
+[8/1/2019 3:18:54] /reload monsters
+[8/1/2019 3:19:1] /m Trainer
+[8/1/2019 3:19:3] /r
+[8/1/2019 3:19:10] /i 7656
+[8/1/2019 3:19:19] /r
+[8/1/2019 3:19:23] /down
+[8/1/2019 3:19:32] /attr health -99999999
+[8/1/2019 3:19:34] /attr health -99999999
+[8/1/2019 3:19:40] /attr health -99999999
+[8/1/2019 3:19:42] /attr health -99999999
+[8/1/2019 3:19:45] /attr health -99999999
+[8/1/2019 3:19:50] /game
+[8/1/2019 3:20:3] /game
+[8/1/2019 3:20:13] /bc green (FIX TRAINERS DONE)
+[8/1/2019 3:21:8] /reload movements
+[8/1/2019 3:21:13] /reports 2
+[8/1/2019 3:21:15] /reports 3
+[8/1/2019 3:21:16] /reports 1
+[8/1/2019 3:22:6] /t
+[8/1/2019 3:22:8] /ghost
+[8/1/2019 3:25:40] /reload npc
+[8/1/2019 3:25:46] /n King Johnny
+[8/1/2019 3:25:48] /r
+[8/1/2019 3:25:50] /r
+[8/1/2019 3:25:52] /r
+[8/1/2019 3:25:54] /r
+[8/1/2019 3:26:54] /reload npc
+[8/1/2019 3:27:23] /n King Johnny
+[8/1/2019 3:27:35] /r
+[8/1/2019 3:27:48] /t
+[8/1/2019 3:28:0] /n Pumin
+[8/1/2019 3:28:3] /r
+[8/1/2019 3:28:35] /bc green (The Promoter is visiting the Temple today.)
+[8/1/2019 3:29:25] !fishing info
+[8/1/2019 3:29:31] !fishing info
+[8/1/2019 3:29:38] !fishing upgrade
+[8/1/2019 3:29:41] !fishing info
+[8/1/2019 3:31:52] /goto Ziggy Marley
+[8/1/2019 3:31:59] /t
+[8/1/2019 13:52:26] /reload npc
+[8/1/2019 13:52:54] /itemfor Administrator, 2160, 1
+[8/1/2019 13:53:16] /itemfor Ketty Araujo, 2160, 2
+[8/1/2019 13:53:29] /itemfor Ketty Araujo, 2152, 48
+[8/1/2019 13:53:52] /goto Ketty Araujo
+[8/1/2019 13:54:27] /reload npc
+[8/1/2019 13:55:25] /goto Cyclops
+[8/1/2019 13:55:34] /down
+[8/1/2019 13:55:35] /down
+[8/1/2019 13:55:42] /down
+[8/1/2019 13:55:55] /goto Ketty Araujo
+[8/1/2019 13:55:57] /ghost
+[8/1/2019 13:56:13] /c Ketty Araujo
+[8/1/2019 13:56:19] /c Ketty Araujo
+[8/1/2019 13:56:22] /c Ketty Araujo
+[8/1/2019 13:56:25] /c Ketty Araujo
+[8/1/2019 13:56:28] /c Ketty Araujo
+[8/1/2019 13:56:31] /c Ketty Araujo
+[8/1/2019 13:56:35] /c Ketty Araujo
+[8/1/2019 13:56:44] /c Ketty Araujo
+[8/1/2019 13:56:53] /ghost
+[8/1/2019 13:58:26] /t
+[8/1/2019 13:59:7] /goto Ketty Araujo
+[8/1/2019 14:0:45] /i stone
+[8/1/2019 14:0:55] /r
+[8/1/2019 14:1:37] /down
+[8/1/2019 14:1:41] /up
+[8/1/2019 14:2:30] /t
+[8/1/2019 14:3:55] /reload globalevents
+[8/1/2019 14:4:23] /ghost
+[8/1/2019 14:5:14] /reload talkactions
+[8/1/2019 14:6:41] /goto Ketty Araujo
+[8/1/2019 14:6:59] /info Ketty Araujo
+[8/1/2019 14:7:30] /reload talkactions
+[8/1/2019 14:10:52] /reload config
+[8/1/2019 14:11:41] /save
+[8/1/2019 14:11:55] /bc green (Some little ajustments)
+[8/1/2019 14:12:18] /shutdown 2
+[8/1/2019 14:12:20] /save
+[8/1/2019 14:13:22] /save
+[8/1/2019 14:13:40] /save
+[8/1/2019 14:14:28] /save
+[8/1/2019 14:15:55] /ghost
+[8/1/2019 14:16:2] /goto Ketty Araujo
+[8/1/2019 14:16:9] /info Ketty Araujo
+[8/1/2019 14:16:19] /info Ketty Araujo
+[8/1/2019 14:18:28] /t
+[1/8/2019 15:9:17] /goto Lady Demoniac
+[1/8/2019 15:9:20] /goto Lady Demoniac
+[1/8/2019 15:9:44] /m carrion worm
+[1/8/2019 15:12:17] /m Broodling
+[1/8/2019 15:12:39] /m triton
+[1/8/2019 15:12:53] /r
+[1/8/2019 15:13:8] /t
+[1/8/2019 15:14:31] /i upgrade bowl
+[1/8/2019 15:14:35] /t
+[1/8/2019 15:14:41] /game
+[1/8/2019 15:14:52] /game
+[1/8/2019 15:14:55] /ghost
+[1/8/2019 15:14:59] /game
+[1/8/2019 15:15:11] /game
+[1/8/2019 15:15:14] /game
+[1/8/2019 15:15:18] /ghost
+[1/8/2019 15:31:6] /ghost
+[1/8/2019 15:31:9] /goto lady demoniac
+[8/1/2019 18:7:16] /reports
+[8/1/2019 18:7:27] /bc . New IP: collapser.online
+[8/1/2019 18:7:36] /bc . New IP: collapser.online
+[8/1/2019 18:7:42] /n King Johnny
+[8/1/2019 18:8:28] /bc . Email: contact@collapser.online
+[8/1/2019 19:2:6] /t
+[8/1/2019 19:2:16] /n King Johnny
+[8/1/2019 19:2:24] /n Pumin
+[8/1/2019 19:37:58] /reload movements
+[8/1/2019 19:38:13] /goto 159, 54, 7
+[8/1/2019 19:38:38] /attr uniqueid 39030
+[8/1/2019 19:41:42] /save
+[8/1/2019 20:23:5] /reload movements
+[8/1/2019 20:25:31] /reload movements
+[8/1/2019 20:25:58] /reload movements
+[8/1/2019 20:26:25] /reload movements
+[8/1/2019 20:29:12] /reload movements
+[8/1/2019 20:29:27] /storage Administrator, 99982
+[8/1/2019 20:29:36] /storage Administrator, 99982
+[8/1/2019 20:29:37] /storage Administrator, 99982
+[8/1/2019 20:29:39] /storage Administrator, 99982
+[8/1/2019 20:29:40] /storage Administrator, 99982
+[8/1/2019 20:29:41] /storage Administrator, 99982
+[8/1/2019 20:29:41] /storage Administrator, 99982
+[8/1/2019 20:29:42] /storage Administrator, 99982
+[8/1/2019 20:29:44] /storage Administrator, 99982
+[8/1/2019 20:29:46] /storage Administrator, 99982
+[8/1/2019 20:29:47] /storage Administrator, 99982
+[8/1/2019 20:29:48] /storage Administrator, 99982
+[8/1/2019 20:29:49] /storage Administrator, 99982
+[8/1/2019 20:30:2] /storage Administrator, 99982
+[8/1/2019 20:30:4] /storage Administrator, 99982
+[8/1/2019 20:30:5] /storage Administrator, 99982
+[8/1/2019 20:30:6] /storage Administrator, 99982
+[8/1/2019 20:30:8] /storage Administrator, 99982
+[8/1/2019 20:30:10] /storage Administrator, 99982
+[8/1/2019 20:30:10] /storage Administrator, 99982
+[8/1/2019 20:30:13] /storage Administrator, 99982
+[8/1/2019 20:30:57] /storage Administrator, 99982, -1
+[8/1/2019 20:31:3] /storage Administrator, 99982
+[8/1/2019 20:31:6] /storage Administrator, 99982
+[8/1/2019 20:31:9] /storage Administrator, 99982
+[8/1/2019 20:31:11] /storage Administrator, 99982
+[8/1/2019 20:31:15] /storage Administrator, 99982
+[8/1/2019 20:31:40] /reload movements
+[8/1/2019 20:31:48] /storage Administrator, 99982
+[8/1/2019 20:31:57] /storage Administrator, 99982
+[8/1/2019 20:40:3] /reload movements
+[8/1/2019 20:40:14] /storage Administrator, 99982
+[8/1/2019 20:40:17] /storage Administrator, 99982, -1
+[8/1/2019 20:40:25] /storage Administrator, 99982
+[8/1/2019 20:40:26] /storage Administrator, 99982
+[8/1/2019 20:40:30] /storage Administrator, 99982
+[8/1/2019 20:40:33] /storage Administrator, 99982
+[8/1/2019 20:40:34] /storage Administrator, 99982
+[8/1/2019 20:41:29] /reload movements
+[8/1/2019 20:41:48] /reload movements
+[8/1/2019 20:41:50] /storage Administrator, 99982
+[8/1/2019 20:41:53] /storage Administrator, 99982
+[8/1/2019 20:41:54] /storage Administrator, 99982
+[8/1/2019 20:42:2] /storage Administrator, 99982
+[8/1/2019 20:42:5] /storage Administrator, 99982
+[8/1/2019 20:42:6] /storage Administrator, 99982
+[8/1/2019 20:42:7] /storage Administrator, 99982
+[8/1/2019 20:42:12] /storage Administrator, 99982
+[8/1/2019 20:42:13] /storage Administrator, 99982
+[8/1/2019 20:42:18] /storage Administrator, 99982
+[8/1/2019 20:42:31] /storage Administrator, 99982
+[8/1/2019 20:42:35] /storage Administrator, 99982, 5
+[8/1/2019 20:42:36] /storage Administrator, 99982
+[8/1/2019 20:42:37] /storage Administrator, 99982
+[8/1/2019 20:42:38] /storage Administrator, 99982
+[8/1/2019 20:42:39] /storage Administrator, 99982
+[8/1/2019 20:42:39] /storage Administrator, 99982
+[8/1/2019 20:42:40] /storage Administrator, 99982
+[8/1/2019 20:42:41] /storage Administrator, 99982
+[8/1/2019 20:42:41] /storage Administrator, 99982
+[8/1/2019 20:42:42] /storage Administrator, 99982
+[8/1/2019 20:42:42] /storage Administrator, 99982
+[8/1/2019 20:42:43] /storage Administrator, 99982
+[8/1/2019 20:43:5] /storage Administrator, 99982
+[8/1/2019 20:43:8] /storage Administrator, 99982
+[8/1/2019 20:43:11] /storage Administrator, 99982, -1
+[8/1/2019 20:43:25] /storage Administrator, 99982
+[8/1/2019 20:44:13] /r
+[8/1/2019 20:44:19] /i stone
+[8/1/2019 21:0:32] /reload movements
+[8/1/2019 21:0:36] /r
+[8/1/2019 21:1:44] /reload movements
+[8/1/2019 21:6:53] /reload movements
+[8/1/2019 21:9:40] /reload movements
+[8/1/2019 21:10:22] /reload movements
+[8/1/2019 21:11:59] /reload movements
+[8/1/2019 21:12:53] /reload movements
+[8/1/2019 21:13:23] /reload movements
+[8/1/2019 21:14:19] /reload movements
+[8/1/2019 21:14:31] /reload movements
+[8/1/2019 21:15:51] /reload movements
+[8/1/2019 21:18:14] /reload movements
+[8/1/2019 21:30:1] /goto Skrey Westcoast
+[8/1/2019 21:30:13] /save
+[8/1/2019 21:30:28] /save
+[8/1/2019 21:31:17] /b Alguém sabe onde era a Hill?
+[8/1/2019 21:31:47] /goto Skrey Westcoast
+[8/1/2019 21:31:49] /goto Skrey Westcoast
+[8/1/2019 21:31:50] /goto Skrey Westcoast
+[8/1/2019 21:33:57] /goto 1321 1931 6
+[8/1/2019 21:34:4] /goto 1321, 1931, 6
+[8/1/2019 21:35:33] /up
+[8/1/2019 21:36:29] /attr uniqueid 39030
+[8/1/2019 21:36:43] /reload movements
+[8/1/2019 21:40:48] /bc . GOD RECEIVED THE LOTTERY, SO...
+[8/1/2019 21:40:57] /itemforall 2160, 10
+[8/1/2019 21:41:8] /bc . Everybody wins!
+[8/1/2019 21:43:47] /goto Al Rashid
+[8/1/2019 21:44:5] /t Al Rashid
+[8/1/2019 21:44:6] /t
+[8/1/2019 21:44:18] /goto Al Rashid
+[8/1/2019 21:44:20] /goto Al Rashid
+[8/1/2019 21:44:21] /goto Al Rashid
+[8/1/2019 21:44:22] /goto Al Rashid
+[8/1/2019 21:44:23] /goto Al Rashid
+[8/1/2019 21:44:24] /goto Al Rashid
+[8/1/2019 21:44:26] /goto Al Rashid
+[8/1/2019 21:44:39] /goto 31, 150, 9
+[8/1/2019 21:44:48] /c Al Rashid
+[8/1/2019 21:45:12] /down
+[8/1/2019 21:45:14] /up
+[8/1/2019 21:46:26] /down
+[8/1/2019 21:46:27] /down
+[8/1/2019 21:46:38] /up
+[8/1/2019 21:46:39] /up
+[8/1/2019 21:46:41] /down
+[8/1/2019 21:47:25] /up
+[8/1/2019 21:47:56] /addorbs Administrator, 1
+[8/1/2019 21:50:41] /t Al rashid
+[8/1/2019 21:54:17] /bc . Ainda não está usando nosso novo IP? collapser.online
+[8/1/2019 21:54:27] /bc . Not using our IP? collapser.online
+[8/1/2019 22:8:31] /down
+[8/1/2019 22:8:48] /down
+[8/1/2019 22:17:0] /up
+[8/1/2019 22:17:10] /i switch
+[8/1/2019 22:17:11] /r
+[8/1/2019 22:17:13] /i lever
+[8/1/2019 22:17:14] /r
+[8/1/2019 22:20:40] /down
+[8/1/2019 22:23:36] /up
+[8/1/2019 22:24:11] /reload actions
+[8/1/2019 22:25:11] /reload actions
+[8/1/2019 22:26:11] /reload actions
+[8/1/2019 22:27:0] /reload actions
+[8/1/2019 22:27:38] /save
+[8/1/2019 22:27:39] /t
+[8/1/2019 22:29:37] /m Vicious Mango
+[8/1/2019 22:29:39] /r
+[8/1/2019 22:29:41] /r
+[8/1/2019 22:32:45] /reload monsters
+[8/1/2019 22:32:51] /m Wall
+[8/1/2019 22:32:54] /m Wall
+[8/1/2019 22:33:20] /reload monsters
+[8/1/2019 22:33:21] /m Wall
+[8/1/2019 22:33:23] /m wall
+[8/1/2019 22:33:43] /m Stone Wall
+[8/1/2019 22:34:17] /r
+[8/1/2019 22:34:20] /reload monsters
+[8/1/2019 22:34:23] /m Stone Wall
+[8/1/2019 22:34:27] /m Stone Wall
+[8/1/2019 22:34:28] /m Stone Wall
+[8/1/2019 22:34:29] /m Stone Wall
+[8/1/2019 22:42:25] /r
+[8/1/2019 22:42:28] /r
+[8/1/2019 22:42:31] /r
+[8/1/2019 22:42:49] /r
+[8/1/2019 22:42:55] /goto 
+[8/1/2019 22:43:54] /goto Stone Wall
+[8/1/2019 22:46:16] /reload monsters
+[8/1/2019 22:46:20] /n Wall
+[8/1/2019 22:46:23] /n Stone Wall
+[8/1/2019 22:46:27] /m Stone Wall
+[8/1/2019 22:46:32] /r
+[8/1/2019 22:46:36] /down
+[8/1/2019 22:46:44] /down
+[8/1/2019 22:46:47] /up
+[8/1/2019 22:46:50] /m Stone Wall
+[8/1/2019 22:46:51] /m Stone Wall
+[8/1/2019 22:47:7] /r
+[8/1/2019 22:47:25] /reload monsters
+[8/1/2019 22:47:30] /t
+[8/1/2019 22:48:7] /m Stone Wall
+[8/1/2019 22:48:10] /r
+[8/1/2019 22:48:17] /r
+[8/1/2019 22:48:23] /m Stone Wall
+[8/1/2019 22:48:57] /r
+[8/1/2019 22:49:58] /dosay Rakedz, Skrey Westcoast HUNTED 4EVER!
+[8/1/2019 22:50:14] /dosay Skrey Westcoast, Fiquei até com medo!
+[8/1/2019 22:50:33] /dosay Skrey Westcoast, Eu sou fdp
+[8/1/2019 22:50:38] /dosay Skrey Westcoast, KKKkK
+[8/1/2019 22:51:0] /dosay Skrey Westcoast, I am Homossexual
+[8/1/2019 22:51:27] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:28] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:30] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:31] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:31] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:32] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:33] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:33] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:34] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:39] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:41] /goto Skrey Westcoast
+[8/1/2019 22:51:42] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:51:43] /goto Skrey Westcoast
+[8/1/2019 22:51:45] /goto Skrey Westcoast
+[8/1/2019 22:51:49] /goto Skrey Westcoast
+[8/1/2019 22:51:52] /goto Skrey Westcoast
+[8/1/2019 22:51:53] /goto Skrey Westcoast
+[8/1/2019 22:51:53] /goto Skrey Westcoast
+[8/1/2019 22:51:54] /goto Skrey Westcoast
+[8/1/2019 22:51:54] /goto Skrey Westcoast
+[8/1/2019 22:51:56] /goto Skrey Westcoast
+[8/1/2019 22:52:2] /goto Skrey Westcoast
+[8/1/2019 22:52:3] /goto Skrey Westcoast
+[8/1/2019 22:52:4] /goto Skrey Westcoast
+[8/1/2019 22:52:6] /ghost
+[8/1/2019 22:52:7] /goto Skrey Westcoast
+[8/1/2019 22:52:7] /goto Skrey Westcoast
+[8/1/2019 22:52:8] /goto Skrey Westcoast
+[8/1/2019 22:52:14] /m Training Kid
+[8/1/2019 22:52:16] /m Trainer
+[8/1/2019 22:52:26] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:52:27] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:52:29] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:52:34] /r
+[8/1/2019 22:52:53] /m Stone Wall
+[8/1/2019 22:52:54] /m Stone Wall
+[8/1/2019 22:52:55] /m Stone Wall
+[8/1/2019 22:53:2] /ghost
+[8/1/2019 22:53:5] /r
+[8/1/2019 22:53:7] /r
+[8/1/2019 22:53:8] /r
+[8/1/2019 22:53:19] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:20] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:21] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:21] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:22] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:22] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:23] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:24] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:24] /say Skrey Westcoast, Grav Mort
+[8/1/2019 22:53:25] /say Skrey Westcoast, Grav Mort
+[8/1/2019 23:7:8] /goto Maniipulador
+[8/1/2019 23:7:37] /t
+[8/1/2019 23:12:43] /goto Maniipulador
+[8/1/2019 23:12:45] /ghost
+[8/1/2019 23:12:47] /goto Maniipulador
+[8/1/2019 23:12:52] /goto Maniipulador
+[8/1/2019 23:12:54] /goto Maniipulador
+[8/1/2019 23:12:55] /goto Maniipulador
+[8/1/2019 23:12:56] /goto Maniipulador
+[8/1/2019 23:12:57] /goto Maniipulador
+[8/1/2019 23:12:59] /goto Maniipulador
+[8/1/2019 23:13:1] /t
+[8/1/2019 23:13:4] /ghost
+[8/1/2019 23:38:44] /i axe
+[8/1/2019 23:39:17] /n Eryn
+[8/1/2019 23:39:20] /r
+[8/1/2019 23:40:33] /n Dwarf Smith
+[8/1/2019 23:40:38] /ghost
+[8/1/2019 23:40:40] /newtype 1
+[8/1/2019 23:40:42] /newtype 4
+[8/1/2019 23:40:43] /newtype 5
+[8/1/2019 23:40:45] /newtype 50
+[8/1/2019 23:40:46] /newtype 51
+[8/1/2019 23:41:3] /newtype 69
+[8/1/2019 23:41:6] /newtype 70
+[8/1/2019 23:41:7] /newtype 71
+[8/1/2019 23:41:9] /newtype 70
+[8/1/2019 23:41:23] /r
+[8/1/2019 23:41:24] /r
+[8/1/2019 23:41:28] /reload npc
+[8/1/2019 23:41:32] /n Dwarf Smith
+[8/1/2019 23:43:17] /reload npc
+[8/1/2019 23:43:28] /i battle axe
+[8/1/2019 23:44:22] /i Battle Hammer 
+[8/1/2019 23:44:42] /i Bone Sword 
+[8/1/2019 23:45:8] /reload npc
+[8/1/2019 23:45:58] /i crown legs
+[8/1/2019 23:46:18] /i Knight Armor
+[8/1/2019 23:46:42] /i knight legs
+[8/1/2019 23:46:58] /i crown helmet
+[8/1/2019 23:47:24] /i crusader helmet
+[8/1/2019 23:48:35] /i zaoan legs
+[8/1/2019 23:50:38] /reload npc
+[8/1/2019 23:52:7] /n Lola
+[9/1/2019 1:13:19] /ghost
+[9/1/2019 1:13:26] /t
+[9/1/2019 1:14:0] /ghost
+[9/1/2019 1:15:39] /i 2160
+[9/1/2019 1:15:46] /i 2160
+[9/1/2019 1:17:6] /newtype 22
+[9/1/2019 1:17:10] /newtype 302
+[9/1/2019 1:17:15] /newtype 304
+[9/1/2019 1:17:18] /newtype 303
+[9/1/2019 1:17:20] /newtype 302
+[9/1/2019 1:17:31] /i stone
+[9/1/2019 1:17:32] /i stone
+[9/1/2019 1:17:33] /i stone
+[9/1/2019 1:17:34] /i stone
+[9/1/2019 1:18:3] /m trainer
+[9/1/2019 1:18:6] /m trainer
+[9/1/2019 1:18:52] /r
+[9/1/2019 1:18:53] /r
+[9/1/2019 1:18:55] /r
+[9/1/2019 1:19:32] /s sobek
+[9/1/2019 1:20:8] /r
+[9/1/2019 1:20:10] /r
+[9/1/2019 1:20:11] /r
+[9/1/2019 1:20:12] /r
+[9/1/2019 1:21:4] /game
+[9/1/2019 1:21:13] /game
+[9/1/2019 1:21:31] /game
+[9/1/2019 1:22:57] /r
+[9/1/2019 1:22:58] /r
+[9/1/2019 1:23:9] /i 3985
+[9/1/2019 1:23:10] /i 3985
+[9/1/2019 1:26:13] /goto santos
+[9/1/2019 1:26:17] /ghost
+[9/1/2019 1:26:30] /goto Ketty Araujo
+[9/1/2019 1:27:17] /goto Ketty Araujo
+[9/1/2019 1:36:1] /t
+[9/1/2019 1:40:23] /i warrior helmet
+[9/1/2019 1:41:9] /i crusader helmet
+[9/1/2019 1:45:22] /reload npc
+[9/1/2019 1:47:25] /i bow
+[9/1/2019 1:51:40] /bc . Alguém online?
+[9/1/2019 1:51:51] /goto Skrey Westcoast
+[9/1/2019 1:51:55] /ghost
+[9/1/2019 1:52:5] /n Soya
+[9/1/2019 1:52:38] /reports
+[9/1/2019 1:53:18] /r
+[9/1/2019 1:54:12] /say Skrey Westcoast, Mas Grav
+[9/1/2019 1:54:21] /say Skrey Westcoast, Mas Grav
+[9/1/2019 1:54:24] /ghost
+[9/1/2019 1:54:27] /say Skrey Westcoast, Mas Grav
+[9/1/2019 1:54:29] /say Skrey Westcoast, Mas Grav
+[9/1/2019 1:54:39] /c Skrey Westcoast
+[9/1/2019 1:55:13] /t
+[9/1/2019 2:9:33] /i 2487
+[9/1/2019 2:9:38] /i 2487
+[9/1/2019 2:9:56] /i 2487
+[9/1/2019 2:10:4] /i 2487
+[9/1/2019 2:10:8] /r
+[9/1/2019 2:10:15] /i 2644
+[9/1/2019 2:10:17] /r
+[9/1/2019 2:11:14] /i 5461
+[9/1/2019 2:12:13] /up
+[9/1/2019 2:12:17] /up
+[9/1/2019 2:12:19] /up
+[9/1/2019 2:12:34] /i 7414
+[9/1/2019 2:13:22] /i 3361
+[9/1/2019 2:13:23] /i 3361
+[9/1/2019 2:13:44] /up
+[9/1/2019 2:13:47] /up
+[9/1/2019 2:13:56] /t
+[9/1/2019 2:14:39] /i switch
+[9/1/2019 2:15:12] /attr uniqueid 3332
+[9/1/2019 2:15:36] /r
+[9/1/2019 2:16:34] /i switch
+[9/1/2019 2:16:39] /attr uniqueid 3332
+[9/1/2019 2:16:54] /r
+[9/1/2019 11:26:53] /t
+[9/1/2019 11:27:20] /goto 82, 219, 6
+[9/1/2019 11:27:29] /goto 80, 219, 6
+[9/1/2019 11:27:34] /goto 82, 219, 7
+[9/1/2019 11:27:36] /down
+[9/1/2019 11:27:42] /down
+[9/1/2019 11:30:52] /t
+[9/1/2019 11:32:57] /reload npc
+[9/1/2019 11:35:6] /i backpack
+[9/1/2019 11:35:14] /i backpack
+[9/1/2019 11:35:28] /i green backpack
+[9/1/2019 11:35:31] /i blue backpack
+[9/1/2019 11:35:34] /i red backpack
+[9/1/2019 11:35:44] /i purple backpack
+[9/1/2019 11:36:2] /i terra boots
+[9/1/2019 11:36:11] /i terra legs
+[9/1/2019 11:36:27] /i terra mantle
+[9/1/2019 11:36:56] /i terra hood
+[9/1/2019 11:37:15] /goto Santos
+[9/1/2019 11:37:57] /t Santos
+[9/1/2019 11:38:0] /goto Eryn
+[9/1/2019 11:38:23] /i magma boots
+[9/1/2019 11:38:31] /i magma legs
+[9/1/2019 11:38:38] /i magma coat
+[9/1/2019 11:38:47] /i magma monocle
+[9/1/2019 11:39:5] /i glacier boots
+[9/1/2019 11:39:7] /i glacier boot
+[9/1/2019 11:39:11] /i glacier boots
+[9/1/2019 11:39:14] /i 7892
+[9/1/2019 11:39:26] /i glacier kilt
+[9/1/2019 11:39:34] /i glacier robe
+[9/1/2019 11:39:42] /goto Nao sei
+[1/8/2019 16:0:14] /t
+[9/1/2019 11:40:42] /i 7902
+[9/1/2019 11:40:44] /t
+[9/1/2019 11:41:18] /save
+[9/1/2019 11:41:24] /shutdown 1
+[9/1/2019 11:44:5] /i 7893
+[9/1/2019 11:44:11] /i 7895
+[9/1/2019 11:44:18] /i 7898
+[9/1/2019 11:44:26] /i 7901
+[9/1/2019 11:48:21] /goto Santos
+[9/1/2019 11:48:22] /ghost
+[9/1/2019 11:48:40] /goto Santos
+[9/1/2019 11:49:15] /i mana potion
+[9/1/2019 11:49:35] /game
+[9/1/2019 11:49:48] /game
+[9/1/2019 11:53:32] /reload talkactions
+[9/1/2019 11:53:36] /masterlogin Santos
+[9/1/2019 11:57:15] /masterlogin Santos
+[9/1/2019 11:57:47] /bc . Sorry about the Rollback... 
+[9/1/2019 11:57:49] /goto Santos
+[9/1/2019 11:57:57] /t
+[9/1/2019 12:0:40] /b Estou resolvendo o bug
+[9/1/2019 12:6:31] /r
+[9/1/2019 12:6:33] /n Eryn
+[9/1/2019 12:7:43] /ghost
+[9/1/2019 12:8:54] /save
+[9/1/2019 12:9:3] /save
+[9/1/2019 12:37:48] /t
+[9/1/2019 12:37:58] /goto Santos
+[9/1/2019 12:38:34] /save
+[9/1/2019 13:2:38] /t
+[9/1/2019 13:3:52] /c
+[9/1/2019 13:4:0] /c Pau Nas rosinha
+[9/1/2019 13:4:3] /c Pau Nas rosinha
+[9/1/2019 13:4:37] /goto Henrique
+[9/1/2019 13:4:46] /t
+[9/1/2019 13:17:55] /reload globalevents
+[9/1/2019 13:17:58] /reload npc
+[9/1/2019 13:18:5] /n Tyoric
+[9/1/2019 13:18:6] /r
+[9/1/2019 13:18:20] /r
+[9/1/2019 13:18:23] /b Dwarf Smith
+[9/1/2019 13:18:28] /n Dwarf Smith
+[9/1/2019 13:19:44] /reload globalevents
+[9/1/2019 13:22:10] /reload globalevents
+[9/1/2019 13:31:51] /t
+[10/1/2019 9:13:46] /save
+[10/1/2019 9:13:54] /shutdown 0

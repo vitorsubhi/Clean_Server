@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Pumin" script="data/npc/scripts/trader.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="35" head="0" body="77" legs="114" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="0"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell donate items and {power}s for {collapser orbs}. Just say {trade}, and let me show you my stuff."/>
+		<parameter key="shop_sellable" value=""/>
+		<parameter key="shop_buyable" value=""/>
+	</parameters>
+</npc>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Guardian" nameDescription="a guardian" race="blood" experience="83050" speed="0" manacost="490">
+  <health now="15000000" max="15000000"/>
+  <look typeex="7824" head="114" body="114" legs="114" feet="0" corpse="1903"/>
+  <targetchange interval="100" chance="8"/>
+  <strategy attack="100" defense="0"/>
+<attacks>
+    <attack name="speed" interval="1000" chance="75" range="7" speedchange="-950000000" duration="100000"></attack>
+               <attack name="melee" interval="100" skill="150" attack="999999"></attack>
+    </attacks>
+<immunities>
+      <immunity paralyze="1"/>
+      <immunity invisibility="1"/>
+    </immunities>  <defenses armor="18" defense="18"/>
+</monster>

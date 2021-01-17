@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Storm Elemental" nameDescription="a storm elemental" race="fire" experience="600000" speed="50" manacost="0">
+  <health now="5000000" max="5000000"/>
+  <look type="293" corpse="1495"/>
+  <targetchange interval="5000" chance="10"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="5"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+      <attack name="energy" interval="1000" range="7" target="1" min="-27005" max="-28005">
+      <attribute key="shootEffect" value="energy"/>
+	</attack>
+  </attacks>
+  <defenses armor="35" defense="35">
+
+  </defenses>
+  <elements>
+	<element physicalPercent="0"/>
+	<element energyPercent="0"/>
+	<element icePercent="0"/>
+	<element deathPercent="0"/>
+  </elements>
+  <immunities>
+    <immunity fire="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="Energy!"/>
+  </voices>
+	<loot>
+		<item id="2148" countmax="80" chance1="100000" chancemax="0"/> --Gold Coin
+		<item id="2148" countmax="60" chance1="100000" chancemax="0"/> --Gold Coin
+		<item id="2148" countmax="45" chance1="100000" chancemax="0"/> --Gold Coin
+		<item id="5944" chance="6200"/> --Soul Orb
+		<item id="2136" chance="300"/> --Demonbone Amulet
+		<item id="6500" chance="4500"/> --demonic essence
+		<item id="2127" chance="2500"/> --emerald bangle
+		<item id="1987" chance="100000"> --Bag
+			<inside>
+				<item id="2239" chance="20000"/> --Burnt Scroll				
+				<item id="2147" countmax="4" chance1="9500" chancemax="0"/> --Small Ruby 				
+				<item id="2187" chance="10500" /> -- wand of Inferno				
+				<item id="2260" chance="13500"/> --Blank Rune
+				<item id="2432" chance="300"/> --Fire Axe
+				<item id="7899" chance="1400"/> --Magma Coat
+				<item id="7894" chance="1100"/> --Magma Legs
+				<item id="2145" countmax="1" chance1="7500" chancemax="0"/> --Small Diamond
+				<item id="2376" chance="12500"/> --Sword
+				<item id="2392" chance="5050"/> --Fire Sword
+			</inside>
+		</item>
+	</loot>
+</monster>

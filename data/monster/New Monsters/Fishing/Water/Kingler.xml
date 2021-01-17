@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kingler" nameDescription="a kingler" race="blood" experience="2000" speed="2000" manacost="505">
+  <health now="4500000" max="4500000"/>
+  <look type="200" head="0" body="0" legs="0" feet="0" corpse="6075"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag staticattack="90"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+<attacks>
+    <attack name="melee" interval="1000" min="-6000" max="-7600"/>
+    <attack name="mort" interval="2000" chance="60" range="7" radius="7" target="1" min="-4200" max="-5600">
+		   <attribute key="shootEffect" value="mort"/>
+		   <attribute key="areaEffect" value="mortarea"/>                                          </attack>
+    <attack name="ice" interval="2500" chance="60" range="7" radius="7" target="1" min="-5200" max="-6600">
+		   <attribute key="shootEffect" value="ice"/>
+		   <attribute key="areaEffect" value="icearea"/>                                          </attack>
+</attacks>
+  <defenses armor="10" defense="15"/>
+  <elements>
+	<element icePercent="0"/>
+	<element earthPercent="0"/>
+	<element physicalPercent="0"/>
+	<element firePercent="0"/>
+	<element energyPercent="0"/>
+  </elements>
+  <immunities>
+	<immunity physical="0"/>
+	<immunity energy="0"/>
+	<immunity fire="0"/>
+	<immunity poison="0"/>
+	<immunity lifedrain="0"/>
+	<immunity paralyze="1"/>
+	<immunity outfit="0"/>
+	<immunity drunk="0"/>
+	<immunity invisible="1"/>
+  </immunities>
+  <loot>
+  </loot>
+</monster>

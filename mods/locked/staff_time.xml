@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mod name="Staff Time System" version="1.1" author="vodkart" contact="none" enabled="yes"> 
+<config name="stafftime_lib"><![CDATA[
+_Staff_Config_ = {
+	storages = {448507,448508,448509},
+	min_group_id = 1 -- aqui vai contar a partir do 2, 3, 4 ... 
+}
+function timeString(timeDiff)
+	local dateFormat = {
+		{"day", timeDiff / 60 / 60 / 24},
+		{"hour", timeDiff / 60 / 60 % 24},
+		{"minute", timeDiff / 60 % 60},
+		{"second", timeDiff % 60}
+	}
+	local out = {}
+	for k, t in ipairs(dateFormat) do
+		local v = math.floor(t[2])
+		if(v > 0) then
+			table.insert(out, (k < #dateFormat and (#out > 0 and ', ' or '') or ' and ') .. v .. ' ' .. t[1] .. (v ~= 1 and 's' or ''))
+		end
+	end
+	local ret = table.concat(out)
+	if ret:len() < 16 and ret:find("second") then
+		local a, b = ret:find(" and ")
+		ret = ret:sub(b+1)
+	end
+	
+	return ret
+end
+function getStaffTime(name)
+	local target_online = getPlayerByNameWildcard(name)
+	if not isPlayer(target_online) then
+		local info = db.getResult("SELECT `value` FROM `player_storage` WHERE `player_id` = ".. getPlayerGUIDByName(name) .." AND `key` = ".. _Staff_Config_.storages[1])
+		if info:getID() ~= -1 then
+			var_time = timeString((-(info:getDataInt("value"))))
+		else
+			var_time = 0
+		end
+	else
+		if getPlayerStorageValue(target_online, _Staff_Config_.storages[2]) <= 0 then
+			var_time = 0
+		else
+			var_time = timeString((os.time() - getPlayerStorageValue(target_online, _Staff_Config_.storages[1])))
+		end
+	end
+	return var_time
+end
+function getAllStaffTime()
+	local query, str = db.getResult("SELECT `name`, `group_id` FROM `players` WHERE `group_id` > ".._Staff_Config_.min_group_id), "--> STAFF TIME <--\n\n[Group]Nick - Tempo Online\n"
+	if (query:getID() ~= -1) then
+		repeat
+			local _ = query:getDataString("name")
+			str = str .. "\n ["..getGroupInfo(query:getDataInt("group_id")).name.."]".._.." - "..getStaffTime(_)
+		until not(query:next())
+		query:free()
+	end
+	return str
+end
+function doSaveStaffTime(cid)
+	if getPlayerStorageValue(cid, _Staff_Config_.storages[2]) >= 1 then
+		setPlayerStorageValue(cid, _Staff_Config_.storages[1], getPlayerStorageValue(cid, _Staff_Config_.storages[1]) - os.time())
+		setPlayerStorageValue(cid, _Staff_Config_.storages[3], getPlayerStorageValue(cid, _Staff_Config_.storages[1]))
+		setPlayerStorageValue(cid, _Staff_Config_.storages[1], getPlayerStorageValue(cid, _Staff_Config_.storages[1]) + os.time())
+	end
+end
+function deleteAllStaffTimes()
+	db.executeQuery("DELETE FROM `player_storage` WHERE `key` = ".._Staff_Config_.storages[1])
+	db.executeQuery("DELETE FROM `player_storage` WHERE `key` = ".._Staff_Config_.storages[2])
+	db.executeQuery("DELETE FROM `player_storage` WHERE `key` = ".._Staff_Config_.storages[3])
+	for _, player in ipairs(getPlayersOnline()) do
+		if getPlayerGroupId(player) > _Staff_Config_.min_group_id then
+			setPlayerStorageValue(player, _Staff_Config_.storages[1], os.time())
+			setPlayerStorageValue(player, _Staff_Config_.storages[2], 1)
+			setPlayerStorageValue(player, _Staff_Config_.storages[3], 0)
+		end
+	end
+end
+function deletePlayerStaffTimes(name)
+	local target_online = getPlayerByNameWildcard(name)
+	if not isPlayer(target_online) then
+		db.executeQuery("DELETE FROM `player_storage` WHERE `player_id` = ".. getPlayerGUIDByName(name) .." AND `key` = ".. _Staff_Config_.storages[1])
+		db.executeQuery("DELETE FROM `player_storage` WHERE `player_id` = ".. getPlayerGUIDByName(name) .." AND `key` = ".. _Staff_Config_.storages[2])
+		db.executeQuery("DELETE FROM `player_storage` WHERE `player_id` = ".. getPlayerGUIDByName(name) .." AND `key` = ".. _Staff_Config_.storages[3])
+	else
+		setPlayerStorageValue(target_online, _Staff_Config_.storages[1], os.time())
+		setPlayerStorageValue(target_online, _Staff_Config_.storages[2], 1)
+		setPlayerStorageValue(target_online, _Staff_Config_.storages[3], 0)
+	end
+end
+]]></config>
+<globalevent name="Salve-StaffTime" interval="30" event="script"><![CDATA[
+domodlib('stafftime_lib')
+function onThink(interval, lastExecution, thinkInterval)
+	if #getPlayersOnline() > 0 then
+		for _, cid in ipairs(getPlayersOnline()) do
+			if getPlayerGroupId(cid) > _Staff_Config_.min_group_id then
+				doSaveStaffTime(cid)
+			end
+		end
+	end
+	return true
+end]]></globalevent>
+<globalevent name="StaffDebug-Start" type="start" event="buffer"><![CDATA[
+domodlib('stafftime_lib')
+local q = db.getResult("SELECT `id` FROM `players` WHERE `group_id` > ".._Staff_Config_.min_group_id)
+if (q:getID() ~= -1) then
+	repeat
+		local p = q:getDataInt("id")
+		u = db.getResult("SELECT `value` FROM `player_storage` WHERE `player_id` = "..p.." AND `key` = ".._Staff_Config_.storages[3])
+		if u:getID() ~= -1 then
+			db.executeQuery("UPDATE `player_storage` SET `value` = "..(u:getDataInt("value")).." WHERE `player_id` = "..p.." AND `key` = ".. _Staff_Config_.storages[1])
+		end
+	until not(q:next())
+	q:free()
+end
+return true]]></globalevent>
+<talkaction words="/stafftime;/allstafftime;/stafftimecleall;/stafftimeclear" event="buffer"><![CDATA[
+domodlib('stafftime_lib')
+if (words == "/stafftime") then
+	local t = string.explode(param:lower(), ",")
+	if (param == "") then
+		doPlayerSendCancel(cid, "use um comando valido") return true
+	elseif not getPlayerGUIDByName(t[1]) then
+		doPlayerSendCancel(cid, "Desculpe, mas o jogador [" .. t[1] .. "] não existe.") return true
+	elseif db.getResult("SELECT `group_id` FROM `players` WHERE `id` = "..getPlayerGUIDByName(t[1])):getDataInt("group_id") <= _Staff_Config_.min_group_id then
+		doPlayerSendCancel(cid,"este jogador não é um membro da staff.") return true
+	end
+	return doPlayerPopupFYI(cid, "Tempo Total Online:\n\n"..t[1].." - "..getStaffTime(t[1])..".")
+elseif (words == "/allstafftime") then
+	if getPlayerAccess(cid) < 5 then
+		doPlayerSendCancel(cid, "você não tem permissão para usar este comando") return true
+	end
+	return doPlayerPopupFYI(cid, getAllStaffTime())
+elseif (words == "/stafftimecleall") then
+	if getPlayerAccess(cid) < 5 then
+		doPlayerSendCancel(cid, "você não tem permissão para usar este comando") return true
+	end
+	deleteAllStaffTimes()
+	return doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você limpou a Staff Time de toda a equipe do servidor.")
+elseif (words == "/stafftimeclear") then
+	local t = string.explode(param:lower(), ",")
+	if getPlayerAccess(cid) < 5 then
+		doPlayerSendCancel(cid, "você não tem permissão para usar este comando") return true
+	elseif (param == "") then
+		doPlayerSendCancel(cid, "use um comando valido") return true
+	elseif not getPlayerGUIDByName(t[1]) then
+		doPlayerSendCancel(cid, "Desculpe, mas o jogador [" .. t[1] .. "] não existe.") return true
+	elseif db.getResult("SELECT `group_id` FROM `players` WHERE `id` = "..getPlayerGUIDByName(t[1])):getDataInt("group_id") <= _Staff_Config_.min_group_id then
+		doPlayerSendCancel(cid,"este jogador não é um membro da staff.") return true
+	end
+	deletePlayerStaffTimes(t[1])
+	return doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você limpou a Staff Time do jogador "..t[1])
+end
+]]></talkaction>
+<event type="login" name="StaffTimeLogin" event="script"><![CDATA[
+domodlib('stafftime_lib')
+function onLogin(cid)
+	if getPlayerGroupId(cid) > _Staff_Config_.min_group_id then
+		if getPlayerStorageValue(cid, _Staff_Config_.storages[2]) <= 0 then
+			setPlayerStorageValue(cid, _Staff_Config_.storages[1], os.time())
+			setPlayerStorageValue(cid, _Staff_Config_.storages[2], 1)
+		else
+			setPlayerStorageValue(cid, _Staff_Config_.storages[1], getPlayerStorageValue(cid, _Staff_Config_.storages[1]) + os.time())
+		end
+	end
+	return true
+end]]></event>	 
+<event type="logout" name="StaffTimeLogout" event="script"><![CDATA[
+domodlib('stafftime_lib')
+function onLogout(cid)
+	if getPlayerGroupId(cid) > _Staff_Config_.min_group_id then
+		setPlayerStorageValue(cid, _Staff_Config_.storages[1], getPlayerStorageValue(cid, _Staff_Config_.storages[1]) - os.time())
+		setPlayerStorageValue(cid, _Staff_Config_.storages[3], getPlayerStorageValue(cid, _Staff_Config_.storages[1]))
+	end
+	return true
+end]]></event>
+</mod>

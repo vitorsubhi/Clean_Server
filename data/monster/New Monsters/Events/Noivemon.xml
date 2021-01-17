@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Noivemon" nameDescription="a noivemon" race="blood" experience="100000000" speed="5000" manacost="350">
+  <health now="500000000" max="500000000"/>
+  <look type="354" head="20" body="30" legs="40" feet="50" corpse="6068"/>
+  <targetchange interval="5000" chance="100"/>
+  <strategy attack="400000" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" min="-11000" max="-15000"/>
+    <attack name="mon" interval="1000" chance="85" range="7" radius="7" target="1" min="-28000" max="-36000">
+		   <attribute key="shootEffect" value="mon"/>
+		   <attribute key="areaEffect" value="mon"/>                                          </attack>
+    <attack name="nov" interval="3000" chance="1000" length="4" spread="3" min="-10000" max="-17000">
+			<attribute key="areaEffect" value="purplenote"/>
+    </attack> 
+  </attacks>
+  <defenses armor="13" defense="5"/>
+  	<elements>
+	    <element physicalPercent="0"/>
+		<element energyPercent="0"/>
+		<element earthPercent="0"/>
+		<element icePercent="0"/>
+		<element firePercent="1"/>
+	</elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="100">
+    <voice sentence="" yell="1"/>
+	</voices>
+  <loot>
+    <item id="6527" countmax="30" chance="999999"/>
+    <item id="6527" countmax="30" chance="9993919"/>
+  </loot>
+</monster>

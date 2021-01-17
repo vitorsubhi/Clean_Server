@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+	<quest name="Destroyed Temple" startstorageid="10001" startstoragevalue="1">
+		<mission name="Little Help" storageid="1001" startvalue="0" endvalue="5">
+			<missionstate id="1" description="A Demon had invaded the Collapser Temple, and destroyed it. Talk to Martin, the Bricklayer. Maybe he has a mission for you."/>
+			<missionstate id="2" description="Martin lost his pick, search another one to him."/>
+			<missionstate id="3" description="Martin is very wounded, and unable to break the stones. Break it to him."/>
+			<missionstate id="4" description="The pick you used has broken, look for a stronger one."/>
+			<missionstate id="5" description="Go back to Martin and tell him that you followed his instructions to the end."/>
+			<missionstate id="6" description="You got a reward from Martin, he was very thankful with that you helped him to take his revenge."/>
+		</mission>
+	</quest>
+	<quest name="Kael'Thas Revange" startstorageid="10001" startstoragevalue="1">
+		<mission name="Little Help" storageid="99390" startvalue="0" endvalue="7">
+			<missionstate id="1" description="Kael'Thas wants to fish, but has no worms. Get 600 Worms to Him, to help him."/>
+			<missionstate id="2" description="Kael'Thas does not know how to fish, get 150 dragon's meats cause his wife is hungry."/>
+			<missionstate id="3" description="Kael'Thas wife ate a poisoned dragon's meat, get 300 blueberries to make an antidote."/>
+			<missionstate id="4" description="It was not enough, bring 300 fire mushrooms, to finish the Antidote"/>
+			<missionstate id="5" description="You helped Kael'Thas, and received a Great Mana Potion for it."/>
+		</mission>
+	</quest>
+</quests>

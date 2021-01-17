@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Pyria" nameDescription="a pyria" race="blood" experience="950000000" speed="30000" manacost="350">
+  <health now="550000000" max="550000000"/>
+  <look type="63" head="20" body="30" legs="40" feet="50" corpse="2979"/>
+  <targetchange interval="5000" chance="100"/>
+  <strategy attack="400000" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-40000" max="-45600"/>
+    <attack name="fire" interval="2000" chance="60" range="7" radius="7" target="1" min="-37200" max="-43600">
+		   <attribute key="shootEffect" value="fire"/>
+		   <attribute key="areaEffect" value="firearea"/>                                          </attack>
+    <attack name="physical" interval="3000" chance="90" length="4" spread="3" min="-26100" max="-30300">
+			<attribute key="areaEffect" value="purplenote"/>
+    </attack>
+    <attack name="jaas" interval="1000" chance="50" radius="9" target="0" min="-26000" max="-30000">
+    </attack> 
+  </attacks>
+  <defenses armor="45" defense="50">
+		<defense name="healing" interval="3000" chance="70" min="20000" max="30000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="100">
+    <voice sentence="ZCHHHHH!!" yell="1"/>
+	</voices>
+  <loot>
+	<item id="5793" chance="200000"/>
+	<item id="6527" countmax="50" chance="9999999"/>
+	<item id="6527" countmax="30" chance="9999999"/>
+	<item id="6527" countmax="40" chance="9999999"/>
+	<item id="6527" countmax="20" chance="9999999"/>
+    <item id="2160" countmax="100" chance="1500000"/>
+    <item id="2160" countmax="100" chance="1500000"/>
+    <item id="2160" countmax="100" chance="1500000"/>
+  </loot>
+</monster>

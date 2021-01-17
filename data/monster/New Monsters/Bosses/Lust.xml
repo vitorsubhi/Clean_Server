@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lust" nameDescription="a lust" race="blood" experience="150000000" speed="2000" manacost="350">
+  <health now="250000000" max="250000000"/>
+  <look type="149" head="112" body="73" legs="120" feet="73" corpse="6068"/>
+  <targetchange interval="5000" chance="100"/>
+  <strategy attack="400000" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-13000" max="-15000"/>
+    <attack name="amazons" interval="3000" chance="85" range="7" radius="7" target="1" min="-25000" max="-28000">
+		   <attribute key="shootEffect" value="amazons"/>
+		   <attribute key="areaEffect" value="amazons"/>                                          </attack>
+    <attack name="amazons" interval="10000" chance="1000" length="4" spread="3" min="-10" max="-20">
+			<attribute key="areaEffect" value="purplenote"/>
+    </attack> 
+  </attacks>
+  <defenses armor="13" defense="5"/>
+  	<elements>
+	    <element physicalPercent="0"/>
+		<element energyPercent="0"/>
+		<element earthPercent="0"/>
+		<element icePercent="0"/>
+		<element firePercent="1"/>
+	</elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="100">
+    <voice sentence="" yell="1"/>
+	</voices>
+  <loot>
+	<item id="6527" chance="200000" countmax="30"/>
+	<item id="6527" chance="200000" countmax="30"/>
+  </loot>
+</monster>

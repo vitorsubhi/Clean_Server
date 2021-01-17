@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lord Rabbit" nameDescription="a lord rabbit" race="blood" experience="27000" speed="500" manacost="550">
+  <health now="150000" max="150000"/>
+  <look type="262" head="20" body="30" legs="40" feet="50" corpse="6017"/>
+  <targetchange interval="2000" chance="8"/>
+  <strategy attack="2350" defense="80"/>
+  <flags>
+	<flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="20" attack="300"/>
+    <attack name="physical" interval="1300" chance="65" range="7" min="-2000" max="-8300">
+      <attribute key="shootEffect" value="bolt"/>
+    </attack>
+  </attacks>
+  <defenses armor="14" defense="40"/>
+  <elements>
+	<element firePercent="30"/>
+	<element holyPercent="30"/>
+	<element icePercent="30"/>
+	<element deathPercent="30"/>
+  </elements>
+  <immunities>
+    <immunity invisible="1"/>
+</immunities>
+  <loot>
+    <item id="2160" countmax="30" chance1="50000" chancemax="0"/>
+  </loot>
+</monster>
+

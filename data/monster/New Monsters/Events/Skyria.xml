@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Skyria" nameDescription="an Skyria" race="undead" experience="850000000" speed="2000" manacost="0">
+  <health now="800000000" max="800000000"/>
+  <look type="149" head="87" body="129" legs="126" feet="128" addons="0" corpse="6081"/>
+  <targetchange interval="2000" chance="5"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag staticattack="50"/>
+    <flag lightlevel="0"/>
+    <flag lightcolor="0"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1060" min="-5000" max="-10000"/>
+    <attack name="rage of the skies" interval="50" chance="100" range="7" min="-80000" max="-90000">
+     </attack>
+	<attack name="drown" interval="500" chance="25" radius="14" target="0" min="-800" max="-1100">
+      <attribute key="areaEffect" value="bluebubble"/>
+    </attack>
+    <attack name="physical" interval="1000" chance="25" length="4" spread="3" min="-1500" max="-2100">
+			<attribute key="areaEffect" value="bluenote"/>
+    </attack>
+  </attacks>
+  <defenses armor="75" defense="70">
+    <defense name="healing" interval="1000" chance="70" min="150000" max="200000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+  <element firePercent=""/>
+  <element earth=""/>
+  <element holyPercent=""/>
+  <element energyPercent=""/>
+  <element deathPercent=""/>
+  </elements>
+  <immunities>
+    <immunity ice="0"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="2000" chance="5">
+    <voice sentence="I AM SSSKYRIIIIIIIIIIIIA!"/>
+    <voice sentence="I WILL DRAG YOUR CORPS !"/>
+    <voice sentence=".l.!"/>
+  </voices>
+  <loot>
+  </loot>
+</monster>
+

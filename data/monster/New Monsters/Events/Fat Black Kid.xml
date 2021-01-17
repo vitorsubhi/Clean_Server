@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fat Black Kid" nameDescription="a Fat Black Kid" race="blood" experience="990000000" speed="85" manacost="490">
+  <health now="300000000" max="300000000"/>
+  <look type="251" head="114" body="114" legs="114" feet="0" corpse="6078"/>
+  <targetchange interval="100" chance="8"/>
+  <strategy attack="100" defense="0"/>
+<attacks>
+    <attack name="speed" interval="500" chance="75" range="7" speedchange="-999900000" duration="999000"></attack>
+               <attack name="melee" interval="50" skill="150" attack="9999999"></attack>
+    </attacks>
+<immunities>
+      <immunity paralyze="1"/>
+      <immunity invisibility="1"/>
+      <immunity fire="1"/>
+    </immunities>  <defenses armor="18" defense="18"/>
+</monster>

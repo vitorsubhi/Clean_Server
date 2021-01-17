@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Killer Rabbit" nameDescription="a killer rabbit" race="blood" experience="21000" speed="500" manacost="550">
+  <health now="25000" max="25000"/>
+  <look type="74" head="20" body="30" legs="40" feet="50" corpse="6017"/>
+  <targetchange interval="2000" chance="8"/>
+  <strategy attack="800" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="20" attack="600"/>
+  </attacks>
+  <defenses armor="1" defense="2"/>
+  <elements>
+	<element firePercent="0"/>
+	<element holyPercent="0"/>
+	<element icePercent="0"/>
+	<element deathPercent="0"/>
+  </elements>
+  <loot>
+    <item id="2684" countmax="5" chance1="50000" chancemax="0"/>
+  </loot>
+</monster>

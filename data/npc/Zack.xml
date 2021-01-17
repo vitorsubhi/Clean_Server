@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Zack" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="128" head="97" body="16" legs="105" feet="21" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="backpack,1988,10;pick,2553,10;shovel,2554,20;rope,2120,50;fishing rod,2580,150;machete,2420,10000"/>
+	</parameters>
+</npc>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Doctor Octagonapus" nameDescription="doctor octagonapus" race="undead" experience="1800" speed="1100" manacost="0">
+	<health now="1500000" max="1500000"/>
+	<look type="46" head="0" body="0" legs="0" feet="0" corpse="6065"/>
+	<targetchange interval="2000" chance="5"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag staticattack="50"/>
+		<flag lightlevel="0"/>
+		<flag lightcolor="0"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1200" min="-7000" max="-8000"/>
+		<attack name="physical" interval="1500" chance="11" target="0" radius="3" min="6500" max="-7800">
+		<attribute key="areaEffect" value="energy"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="12" target="0" radius="5" min="-8000" max="-10500">
+		<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="35" defense="40"/>
+	<elements>
+	<element energyPercent="-20"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="0"/>
+		<immunity ice="0"/>
+		<immunity paralyse="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Gaaahhh!"/>
+	</voices>
+	<loot>
+		<item id="7250" chance="100000"/>
+		<item id="5945" chance="100000"/>
+                <item id="2361" chance="100000"/>
+                <item id="2361" chance="100000"/>
+                <item id="7250" chance="100000"/> 
+	</loot>
+</monster>
+

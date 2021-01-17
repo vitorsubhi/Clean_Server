@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Nightbane" nameDescription="a Nightbane" tp="1" race="fire" species="fire" experience="6000" speed="3000" manacost="0">
+    <health now="90000000" max="90000000"/>
+    <look type="231" head="20" body="30" legs="40" feet="50" corpse="2916"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="40"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="1000" min="-20000" max="-27000"/>
+      <attack name="Great Fireball" interval="1000" chance="0" min="-10000" max="-13000"/>
+      <attack name="Fire Field" interval="6000" chance="65" min="-10" max="-20"/>
+    </attacks>
+    <defenses armor="40" defense="45">
+      <defense name="Ultimate Healing" interval="1100" chance="50" min="40000" max="55200"/>
+    </defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="0"/>
+      <immunity fire="1"/>
+      <immunity poison="1"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="1"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+  <summons maxSummons="0">
+      <summon name="" interval="2000" chance="50"/>
+    </summons>
+    <voices interval="1000" chance="10">
+      <voice sentence="Your soul will be mine!"/>
+      <voice sentence="MWA HA HA HA HA!"/>
+    </voices>
+    <loot>
+      <item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+      <item id="2160" countmax="80" chance1="100000" chancemax="0"/>
+      <item id="7439" chance="1000"/>
+      <item id="2366" chance="1000"/>
+      <item id="8305" chance="1000"/>
+      <item id="8310" chance="1333"/>
+      <item id="8304" chance="1333"/>
+      <item id="8907" chance="1000"/>
+    </loot>
+  </monster>

@@ -1,0 +1,863 @@
+[29/12/2018 23:46:9] /game
+[29/12/2018 23:46:48] /goto Druid Sample
+[29/12/2018 23:48:15] /addskill Druid Sample, exp, 9
+[29/12/2018 23:48:22] /addskill Druid Sample, exp, 100
+[29/12/2018 23:48:28] /addskill Druid Sample, exp, 9
+[29/12/2018 23:48:30] /addskill Druid Sample, exp, 30
+[30/12/2018 21:8:29] /masterlogin Knight Sample
+[30/12/2018 21:9:1] /masterlogin Druid Sample
+[30/12/2018 21:9:7] /masterlogin Account Manager
+[30/12/2018 21:9:16] /masterlogin Paladin Sample
+[31/12/2018 20:18:22] /game
+[31/12/2018 20:18:26] /ghost
+[31/12/2018 20:19:13] /ghost
+[31/12/2018 20:19:57] /masterlogin Account Manager
+[31/12/2018 20:20:32] /goto Sorcerer Sample
+[31/12/2018 20:20:42] /t Sorcerer Sample
+[31/12/2018 20:20:45] /t
+[31/12/2018 20:30:30] /b vitor?
+[31/12/2018 20:30:40] /t
+[31/12/2018 20:30:48] /t
+[31/12/2018 20:31:9] /t
+[31/12/2018 20:31:58] !tradeorbs Sorcerer Sample,5
+[31/12/2018 20:33:5] !tradeorbs Sorcerer Sample,5
+[31/12/2018 20:33:17] !tradeorbs Sorcerer Sample,1
+[31/12/2018 20:36:2] /reload creaturescripts
+[31/12/2018 20:38:17] /i document
+[31/12/2018 20:39:5] /i paper
+[31/12/2018 20:39:35] /attr group 10
+[31/12/2018 20:39:52] /attr group 10
+[31/12/2018 20:39:55] /r
+[31/12/2018 20:40:8] /attr group 10
+[31/12/2018 20:40:30] /attr group 9
+[31/12/2018 20:47:22] /up
+[31/12/2018 20:47:25] /up
+[31/12/2018 20:47:25] /up
+[31/12/2018 20:47:26] /up
+[31/12/2018 20:47:27] /t
+[31/12/2018 20:48:55] !tradeorbs Paladin Sample, 2
+[31/12/2018 20:54:20] /i 2160
+[31/12/2018 20:56:24] /b what?
+[31/12/2018 20:56:29] /t
+[31/12/2018 20:57:19] /t
+[31/12/2018 20:57:22] /i 1387
+[31/12/2018 20:57:28] /attr position 160 54 7
+[31/12/2018 20:57:45] /r
+[31/12/2018 20:57:48] /i 1376
+[31/12/2018 20:57:50] /r
+[31/12/2018 20:57:52] /i 1387
+[31/12/2018 20:58:4] /r
+[31/12/2018 20:58:12] /goto 160, 54, 7
+[31/12/2018 21:0:57] /a 10
+[31/12/2018 21:0:58] /a 10
+[31/12/2018 21:0:59] /a 10
+[31/12/2018 21:1:0] /a 10
+[31/12/2018 21:1:5] /down
+[31/12/2018 21:1:5] /t
+[31/12/2018 21:1:11] /goto 160, 54, 7
+[31/12/2018 21:7:20] /t
+[31/12/2018 21:12:52] /i crystal coins
+[31/12/2018 21:12:54] /i crystal coin
+[31/12/2018 21:12:56] /i crystal coin
+[31/12/2018 21:35:35] /a 3
+[31/12/2018 21:35:36] /a 3
+[31/12/2018 21:35:37] /a 3
+[31/12/2018 21:35:37] /a 3
+[31/12/2018 21:40:12] /newtype 266
+[31/12/2018 21:40:15] /newtype 75
+[31/12/2018 21:40:21] /newtype 266
+[31/12/2018 22:4:58] /i lavanca
+[31/12/2018 22:5:48] /goto 161, 54, 7
+[31/12/2018 22:6:7] /c Sorcerer Sample
+[31/12/2018 22:6:31] /c paladin sample
+[31/12/2018 22:6:33] /a
+[31/12/2018 22:6:55] /a
+[31/12/2018 22:7:17] /a 2
+[31/12/2018 22:7:39] /a 2
+[31/12/2018 22:7:41] /a
+[31/12/2018 22:8:28] /m ferocious wolf
+[31/12/2018 22:11:57] /m mature hellhound
+[31/12/2018 22:18:33] /goto Enranged Sibang
+[31/12/2018 22:18:42] /m Enranged Sibang
+[31/12/2018 22:18:59] /m ferocious wolf
+[31/12/2018 22:19:2] /r
+[31/12/2018 22:19:5] /goto ferocious wolf
+[31/12/2018 22:19:9] /t
+[31/12/2018 22:19:13] /goto ferocious bear
+[31/12/2018 22:19:19] /goto mature hellhound
+[31/12/2018 22:19:30] /t
+[31/12/2018 22:19:34] /goto paladin sample
+[31/12/2018 22:20:33] /goto sibang ovelord
+[31/12/2018 22:20:54] /goto kongra warrior
+[31/12/2018 22:21:20] /goto ferocious wolf
+[31/12/2018 22:21:24] /t
+[31/12/2018 22:21:29] /goto paladin sampel
+[31/12/2018 22:21:31] /goto paladin sample
+[31/12/2018 22:21:35] /a 5
+[31/12/2018 22:21:36] /a 5
+[31/12/2018 22:21:37] /a 5
+[31/12/2018 22:21:39] /a 5
+[31/12/2018 22:22:15] /a 3
+[31/12/2018 22:22:24] /a 5
+[31/12/2018 22:22:25] /a 5
+[31/12/2018 22:22:25] /a 5
+[31/12/2018 22:22:26] /a 5
+[31/12/2018 22:22:26] /a 5
+[31/12/2018 22:22:27] /a 5
+[31/12/2018 22:22:28] /a 5
+[31/12/2018 22:22:29] /a 5
+[31/12/2018 22:22:30] /a 5
+[31/12/2018 22:22:31] /a 5
+[31/12/2018 22:22:32] /a 5
+[31/12/2018 22:22:33] /a 5
+[31/12/2018 22:22:33] /a 5
+[31/12/2018 22:22:35] /a 5
+[31/12/2018 22:22:37] /a 5
+[31/12/2018 22:22:37] /a 5
+[31/12/2018 22:22:43] /goto kongra warior
+[31/12/2018 22:22:45] /goto kongra warrior
+[31/12/2018 22:22:51] /a 11
+[31/12/2018 22:22:52] /a 11
+[31/12/2018 22:22:53] /a 11
+[31/12/2018 22:22:54] /a 11
+[31/12/2018 22:22:55] /a 11
+[31/12/2018 22:22:56] /a 11
+[31/12/2018 22:22:57] /a 11
+[31/12/2018 22:22:58] /a 11
+[31/12/2018 22:22:59] /a 11
+[31/12/2018 22:23:2] /a 11
+[31/12/2018 22:23:4] /a 11
+[31/12/2018 22:23:5] /a 11
+[31/12/2018 22:23:6] /a 11
+[31/12/2018 22:23:8] /a 11
+[31/12/2018 22:23:9] /a 11
+[31/12/2018 22:23:10] /a 11
+[31/12/2018 22:23:12] /a 5
+[31/12/2018 22:23:27] /a 5
+[31/12/2018 22:23:27] /a 5
+[31/12/2018 22:23:28] /a 5
+[31/12/2018 22:23:28] /a 5
+[31/12/2018 22:23:29] /a 5
+[31/12/2018 22:23:30] /a 5
+[31/12/2018 22:23:30] /a 5
+[31/12/2018 22:23:31] /a 5
+[31/12/2018 22:23:31] /a 5
+[31/12/2018 22:23:35] /a 5
+[31/12/2018 22:23:36] /a 5
+[31/12/2018 22:23:36] /a 5
+[31/12/2018 22:23:37] /a 5
+[31/12/2018 22:23:38] /a 5
+[31/12/2018 22:23:39] /a 5
+[31/12/2018 22:23:40] /a 5
+[31/12/2018 22:23:41] /a 5
+[31/12/2018 22:23:42] /a 5
+[31/12/2018 22:23:43] /a 5
+[31/12/2018 22:23:43] /a 5
+[31/12/2018 22:23:44] /a 5
+[31/12/2018 22:23:44] /a 5
+[31/12/2018 22:23:45] /a 5
+[31/12/2018 22:23:46] /a 5
+[31/12/2018 22:23:46] /a 5
+[31/12/2018 22:23:47] /a 5
+[31/12/2018 22:23:51] /a 5
+[31/12/2018 22:23:52] /a 5
+[31/12/2018 22:23:52] /a 5
+[31/12/2018 22:23:53] /a 5
+[31/12/2018 22:23:53] /a 5
+[31/12/2018 22:23:55] /a 5
+[31/12/2018 22:23:56] /a 5
+[31/12/2018 22:24:3] /a 5
+[31/12/2018 22:24:4] /a 5
+[31/12/2018 22:24:4] /a 5
+[31/12/2018 22:24:5] /a 5
+[31/12/2018 22:24:5] /a 5
+[31/12/2018 22:24:10] /a 5
+[31/12/2018 22:24:11] /a 5
+[31/12/2018 22:24:12] /a 5
+[31/12/2018 22:24:13] /a 5
+[31/12/2018 22:24:14] /a 5
+[31/12/2018 22:24:16] /a 5
+[31/12/2018 22:24:16] /a 5
+[31/12/2018 22:24:17] /a 5
+[31/12/2018 22:24:18] /a 5
+[31/12/2018 22:24:19] /a 5
+[31/12/2018 22:24:20] /a 5
+[31/12/2018 22:24:21] /a 5
+[31/12/2018 22:24:21] /a 5
+[31/12/2018 22:24:22] /a 5
+[31/12/2018 22:24:23] /a 5
+[31/12/2018 22:24:24] /a 5
+[31/12/2018 22:24:24] /a 5
+[31/12/2018 22:24:25] /a 5
+[31/12/2018 22:24:26] /a 5
+[31/12/2018 22:24:26] /a 5
+[31/12/2018 22:24:27] /a 5
+[31/12/2018 22:24:27] /a 5
+[31/12/2018 22:24:28] /a 5
+[31/12/2018 22:24:28] /a 5
+[31/12/2018 22:24:29] /a 5
+[31/12/2018 22:24:29] /a 5
+[31/12/2018 22:24:33] /a 5
+[31/12/2018 22:24:33] /a 5
+[31/12/2018 22:24:33] /a 5
+[31/12/2018 22:24:34] /a 5
+[31/12/2018 22:24:34] /a 5
+[31/12/2018 22:24:34] /a 5
+[31/12/2018 22:24:34] /a 5
+[31/12/2018 22:24:34] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:35] /a 5
+[31/12/2018 22:24:36] /a 5
+[31/12/2018 22:24:36] /a 5
+[31/12/2018 22:24:37] /a 5
+[31/12/2018 22:24:38] /a 5
+[31/12/2018 22:24:39] /a 5
+[31/12/2018 22:24:39] /a 5
+[31/12/2018 22:24:39] /a 5
+[31/12/2018 22:24:39] /a 5
+[31/12/2018 22:24:40] /a 5
+[31/12/2018 22:24:40] /a 5
+[31/12/2018 22:24:40] /a 5
+[31/12/2018 22:24:40] /a 5
+[31/12/2018 22:24:41] /a 5
+[31/12/2018 22:24:41] /a 5
+[31/12/2018 22:24:41] /a 5
+[31/12/2018 22:24:47] /a 5
+[31/12/2018 22:24:48] /a 5
+[31/12/2018 22:24:49] /a 5
+[31/12/2018 22:24:49] /a 5
+[31/12/2018 22:24:50] /a 5
+[31/12/2018 22:24:50] /a 5
+[31/12/2018 22:24:51] /a 5
+[31/12/2018 22:24:51] /a 5
+[31/12/2018 22:24:52] /a 5
+[31/12/2018 22:24:52] /a 5
+[31/12/2018 22:24:52] /a 5
+[31/12/2018 22:24:53] /a 5
+[31/12/2018 22:24:53] /a 5
+[31/12/2018 22:24:53] /a 5
+[31/12/2018 22:24:54] /a 5
+[31/12/2018 22:24:54] /a 5
+[31/12/2018 22:24:55] /a 5
+[31/12/2018 22:24:55] /a 5
+[31/12/2018 22:24:55] /a 5
+[31/12/2018 22:24:57] /a 5
+[31/12/2018 22:24:58] /a 5
+[31/12/2018 22:24:58] /a 5
+[31/12/2018 22:24:58] /a 5
+[31/12/2018 22:24:59] /a 5
+[31/12/2018 22:25:0] /a 5
+[31/12/2018 22:25:0] /a 5
+[31/12/2018 22:25:1] /a 5
+[31/12/2018 22:25:2] /a 5
+[31/12/2018 22:25:3] /a 5
+[31/12/2018 22:25:3] /a 5
+[31/12/2018 22:25:4] /a 5
+[31/12/2018 22:25:4] /a 5
+[31/12/2018 22:25:5] /a 5
+[31/12/2018 22:25:5] /a 5
+[31/12/2018 22:25:6] /a 5
+[31/12/2018 22:25:8] /a 5
+[31/12/2018 22:25:8] /a 5
+[31/12/2018 22:25:9] /a 5
+[31/12/2018 22:25:10] /a 5
+[31/12/2018 22:25:12] /a 5
+[31/12/2018 22:25:13] /a 5
+[31/12/2018 22:25:13] /a 5
+[31/12/2018 22:25:18] /goto paladin sample
+[31/12/2018 22:50:13] /goto paladin sample
+[31/12/2018 23:4:31] /a 3
+[31/12/2018 23:4:36] /r
+[31/12/2018 23:4:47] /c paladin sample
+[31/12/2018 23:4:50] /c paladin sample
+[3/1/2019 13:30:20] /goto 160, 54, 7
+[3/1/2019 13:30:57] /masterlogin Paladin Sample
+[3/1/2019 13:33:9] !tradeorbs Paladin Sample, 3
+[3/1/2019 13:52:57] /r
+[3/1/2019 13:53:32] /m Rat
+[3/1/2019 13:54:52] /t
+[3/1/2019 13:54:53] /t Kaqi Xugeu
+[3/1/2019 13:58:51] /t
+[3/1/2019 14:2:28] /i 2647
+[3/1/2019 14:3:28] /i 7590
+[3/1/2019 14:4:47] /attr set text description oi
+[3/1/2019 14:16:43] /reload actions
+[3/1/2019 14:18:7] /reload actions
+[3/1/2019 14:19:31] /reload actions
+[3/1/2019 14:19:58] /reload actions
+[3/1/2019 14:20:16] /reload actions
+[3/1/2019 14:30:6] /reload talkactions
+[3/1/2019 14:33:24] /reload talkactions
+[3/1/2019 14:35:24] /reload talkactions
+[3/1/2019 14:37:0] /reload talkactions
+[3/1/2019 14:41:18] /reload talkactions
+[3/1/2019 14:41:26] /t
+[3/1/2019 14:41:30] /goto 160, 54, 7
+[3/1/2019 14:44:7] /reload talkactions
+[3/1/2019 15:15:8] /reload talkactions
+[3/1/2019 15:16:17] /reload talkactions
+[3/1/2019 15:21:46] /reload talkactions
+[3/1/2019 15:22:2] /tt getPlayerStorage(cid,1)
+[3/1/2019 15:22:6] /tt getPlayerStorage(cid,1)
+[3/1/2019 15:23:11] /tt getPlayerStorageValue(cid,1)
+[3/1/2019 15:23:15] /tt a
+[3/1/2019 15:23:47] /tt o
+[3/1/2019 15:23:49] /tt o
+[3/1/2019 15:23:50] /tt o
+[3/1/2019 15:24:4] /reload talkactions
+[3/1/2019 15:24:6] /tt o
+[3/1/2019 15:24:17] /tt o
+[3/1/2019 15:24:20] /reload talkactions
+[3/1/2019 15:24:21] /tt o
+[3/1/2019 15:27:6] /reload talkactions
+[3/1/2019 15:27:8] /tt o
+[3/1/2019 15:29:35] /reload talkactions
+[3/1/2019 15:30:4] /tt doPlayerSendTextMessage, oi
+[3/1/2019 15:30:48] /reload talkactions
+[3/1/2019 15:30:53] /tt doPlayerSendTextMessage, oi
+[3/1/2019 15:35:12] /reload talkactions
+[3/1/2019 15:35:16] /tt doPlayerSendTextMessage, oi
+[3/1/2019 15:36:16] /reload talkactions
+[3/1/2019 15:36:20] /tt doPlayerSendTextMessage, 25, oi
+[3/1/2019 15:36:26] /tt doPlayerSendTextMessage, 26, oi
+[3/1/2019 15:36:29] /tt doPlayerSendTextMessage, 20, oi
+[3/1/2019 15:36:33] /tt doPlayerSendTextMessage, 19, oi
+[3/1/2019 15:36:38] /tt doPlayerSendTextMessage, 25, oi
+[3/1/2019 15:37:34] /reload talkactions
+[3/1/2019 15:40:56] /reload talkactions
+[3/1/2019 15:41:8] /tt doPlayerSendTextMessage, cid, 20, "oi"
+[3/1/2019 15:41:13] /tt doPlayerSendTextMessage, cid, 20, tchau
+[3/1/2019 15:41:27] /tt doPlayerSendTextMessage, cid, tonumber(20), tchau
+[3/1/2019 15:41:50] /tt doPlayerSendTextMessage, getPlayerByName("Knight Sample"), tonumber(20), tchau
+[3/1/2019 15:41:54] /tt doPlayerSendTextMessage, getPlayerByName("Knight Sample"), tonumber(20), tchau
+[3/1/2019 15:42:5] /tt doPlayerSendTextMessage, _G[getPlayerByName("Knight Sample")], tonumber(20), tchau
+[3/1/2019 15:42:26] /reload talkactions
+[3/1/2019 15:42:29] /tt doPlayerSendTextMessage, _G[getPlayerByName("Knight Sample")], tonumber(20), tchau
+[3/1/2019 15:45:46] /reload talkactions
+[3/1/2019 15:45:52] /tt doPlayerSendTextMessage
+[3/1/2019 15:46:0] /tt doPlayerSendTextMessage, _G[getPlayerByName("Knight Sample")], tonumber(20), tchau
+[3/1/2019 15:53:38] /reload talkactions
+[3/1/2019 15:53:43] /tt 
+[3/1/2019 15:53:45] /tt s
+[3/1/2019 15:54:7] /reload talkactions
+[3/1/2019 15:54:10] /tt s
+[3/1/2019 15:54:41] /reload talkactions
+[3/1/2019 15:54:43] /tt s
+[3/1/2019 15:55:31] /reload talkactions
+[3/1/2019 15:55:35] /tt s, s
+[3/1/2019 15:55:53] /reload talkactions
+[3/1/2019 15:55:59] /tt doRemoveCreature, 1
+[3/1/2019 16:7:41] /reload talkactions
+[3/1/2019 16:7:44] /tt doRemoveCreature, cid
+[3/1/2019 16:8:17] /reload talkactions
+[3/1/2019 16:8:19] /tt doRemoveCreature, cid
+[3/1/2019 16:12:32] /reload talkactions
+[3/1/2019 16:12:34] /tt doRemoveCreature, cid
+[3/1/2019 16:45:17] /tt doRemoveCreature, cid
+[3/1/2019 17:0:18] /reload talkactions
+[3/1/2019 17:2:37] /reload talkactions
+[3/1/2019 17:2:49] /tt doCreatureRemove, cid
+[3/1/2019 17:3:1] /tt doRemoveCreature, cid
+[3/1/2019 17:3:21] /reload talkactions
+[3/1/2019 17:3:23] /tt doRemoveCreature, cid
+[3/1/2019 17:3:25] /tt doCreatureRemove, cid
+[3/1/2019 17:3:32] /tt doCreatureRemove; cid
+[3/1/2019 17:3:41] /tt doRemoveCreature; cid
+[3/1/2019 17:3:59] /tt doRemoveCreature; cid
+[3/1/2019 17:5:23] /tt doRemoveCreature; cid
+[3/1/2019 17:5:30] /reload talkactions
+[3/1/2019 17:5:33] /tt doRemoveCreaturem cid
+[3/1/2019 17:5:38] /tt doRemoveCreature, cid
+[3/1/2019 17:8:58] /reload talkactions
+[3/1/2019 17:9:10] /tt doRemoveCreature, Knight Sample
+[3/1/2019 17:13:12] /tt doCreatureAddHealth, Knight Sample, -3
+[3/1/2019 17:13:15] /reload talkactions
+[3/1/2019 17:13:18] /tt doCreatureAddHealth, Knight Sample, -30
+[3/1/2019 17:13:22] /tt doCreatureAddHealth, Knight Sample, 30
+[3/1/2019 17:13:40] /tt doCreatureAddHealth, cid, -30
+[3/1/2019 17:13:41] /tt doCreatureAddHealth, cid, -30
+[3/1/2019 17:14:0] /reload talkactions
+[3/1/2019 17:14:2] /tt doCreatureAddHealth, cid, -30
+[3/1/2019 17:14:18] /reload talkactions
+[3/1/2019 17:14:20] /tt doCreatureAddHealth, cid, -30
+[3/1/2019 17:14:23] /tt doCreatureAddHealth, cid, 30
+[3/1/2019 17:14:28] /tt doRemoveCreature, Knight Sample
+[3/1/2019 17:14:37] /tt doCreatureAddHealth, cid, 30
+[3/1/2019 17:14:54] /tt doCreatureAddHealth, cid, 30, 1
+[3/1/2019 17:15:32] /tt doPlayerBroadcastMessage, cid, 30
+[3/1/2019 17:15:33] /tt doPlayerBroadcastMessage, cid, 30, 1
+[3/1/2019 17:15:40] /reload talkactions
+[3/1/2019 17:15:42] /tt doPlayerBroadcastMessage, cid, oi
+[3/1/2019 17:15:45] /tt doPlayerBroadcastMessage, cid, "oi"
+[3/1/2019 17:15:50] /tt doPlayerBroadcastMessage, cid, "oi", "oi"
+[3/1/2019 17:16:29] /reload talkactions
+[3/1/2019 17:16:30] /tt doPlayerBroadcastMessage, cid, "oi", "oi"
+[3/1/2019 17:16:35] /tt doPlayerBroadcastMessage, cid, oi
+[3/1/2019 17:16:38] /tt doPlayerBroadcastMessage, cid, tudo
+[3/1/2019 17:16:43] /tt doPlayerBroadcastMessage, Knight Sample, kk
+[3/1/2019 17:17:4] /tt doPlayerBroadcastMessage, 3
+[3/1/2019 17:17:40] /tt doCreatureAddHealth, cid, -300
+[3/1/2019 17:17:46] /tt doCreatureAddHealth, cid, -300
+[3/1/2019 17:17:53] /r
+[3/1/2019 17:17:54] /r
+[3/1/2019 18:10:50] /tt doCreatureAddHealth, cid, -300
+[3/1/2019 18:11:6] /tt doCreatureAddHealth, cid, -99
+[3/1/2019 18:11:10] /tt doCreatureAddHealth, cid, -99
+[3/1/2019 18:11:24] /t
+[3/1/2019 18:13:55] /goto 160, 54, 6
+[3/1/2019 18:13:57] /goto 160, 54, 6
+[3/1/2019 19:40:35] /reload talkactions
+[3/1/2019 19:40:44] /changelevel 200
+[3/1/2019 19:40:47] /changelevel 250
+[3/1/2019 19:40:57] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:41:0] /changelevel 250
+[3/1/2019 19:41:5] /changelevel 250
+[3/1/2019 19:41:23] /reload talkactions
+[3/1/2019 19:41:25] /changelevel 250
+[3/1/2019 19:41:53] /reload talkactions
+[3/1/2019 19:41:55] /changelevel 250
+[3/1/2019 19:42:2] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:42:3] /changelevel 250
+[3/1/2019 19:42:11] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:42:13] /changelevel 250
+[3/1/2019 19:42:39] /reload talkactions
+[3/1/2019 19:42:41] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:42:44] /changelevel 250
+[3/1/2019 19:43:24] /reload talkactions
+[3/1/2019 19:43:27] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:43:32] /changelevel 250
+[3/1/2019 19:43:38] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:43:43] /changelevel 250
+[3/1/2019 19:43:45] /changelevel 250
+[3/1/2019 19:43:46] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:43:47] /changelevel 250
+[3/1/2019 19:43:49] /changelevel 250
+[3/1/2019 19:43:50] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:0] /reload talkactions
+[3/1/2019 19:44:2] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:3] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:4] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:5] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:6] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:6] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:7] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:8] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:10] /addskill Knight Sample, exp, 40009
+[3/1/2019 19:44:11] /addskill Knight Sample, exp, 40009
+[3/1/2019 19:44:12] /addskill Knight Sample, exp, 40009
+[3/1/2019 19:44:13] /addskill Knight Sample, exp, 40009
+[3/1/2019 19:44:13] /addskill Knight Sample, exp, 40009
+[3/1/2019 19:44:15] /addskill Knight Sample, exp, 400090
+[3/1/2019 19:44:16] /addskill Knight Sample, exp, 400090
+[3/1/2019 19:44:17] /addskill Knight Sample, exp, 400090
+[3/1/2019 19:44:23] /changelevel 250
+[3/1/2019 19:44:25] /changelevel 250
+[3/1/2019 19:44:45] /reload talkactions
+[3/1/2019 19:44:48] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:44:51] /changelevel 250
+[3/1/2019 19:45:0] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:45:11] /changelevel 250
+[3/1/2019 19:45:20] /changelevel 250
+[3/1/2019 19:47:0] /reload talkactions
+[3/1/2019 19:47:3] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:47:8] /changelevel 250
+[3/1/2019 19:47:48] /reload talkactions
+[3/1/2019 19:47:50] /changelevel 250
+[3/1/2019 19:47:53] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:47:55] /changelevel 250
+[3/1/2019 19:48:44] /reload talkactions
+[3/1/2019 19:48:47] /changelevel 250
+[3/1/2019 19:48:48] /reload talkactions
+[3/1/2019 19:48:51] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:48:53] /changelevel 250
+[3/1/2019 19:49:8] /changelevel 1
+[3/1/2019 19:49:45] /changelevel 250
+[3/1/2019 19:49:47] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:49:51] /reload talkactions
+[3/1/2019 19:49:54] /changelevel 1
+[3/1/2019 19:50:4] /changelevel 4000
+[3/1/2019 19:50:20] /addskill Knight Sample, exp, 4000
+[3/1/2019 19:50:26] /changelevel 4000
+[3/1/2019 19:50:39] /tt doPlayerAddHealth, cid, 1
+[3/1/2019 19:50:58] /tt doPlayerAddHealth, Knight Sample, 1
+[3/1/2019 19:51:5] /tt doPlayerAddHealth, cid, 1000
+[3/1/2019 19:51:26] /reload talkactions
+[3/1/2019 19:51:42] /changelevel 3999
+[3/1/2019 19:51:58] /reload talkactions
+[3/1/2019 19:52:0] /changelevel 3998
+[3/1/2019 19:53:13] /reload talkactions
+[3/1/2019 19:53:15] /changelevel 3997
+[3/1/2019 19:53:21] /changelevel 3997
+[3/1/2019 19:53:26] /changelevel 3996
+[3/1/2019 19:53:33] /changelevel 3996
+[3/1/2019 19:53:35] /changelevel 3997
+[3/1/2019 19:53:38] /changelevel 3996
+[3/1/2019 19:53:41] /changelevel 3994
+[3/1/2019 19:53:42] /changelevel 3993
+[3/1/2019 19:53:45] /changelevel 3992
+[3/1/2019 19:53:46] /changelevel 3991
+[3/1/2019 19:53:47] /changelevel 3990
+[3/1/2019 19:53:51] /changelevel 3989
+[3/1/2019 19:53:53] /changelevel 3988
+[3/1/2019 19:53:55] /changelevel 3987
+[3/1/2019 19:53:57] /changelevel 3986
+[3/1/2019 19:54:12] /addskill Knight Sample, exp, 1000
+[3/1/2019 19:54:35] /changelevel 10007
+[3/1/2019 19:54:39] /changelevel 1007
+[3/1/2019 19:54:58] /changelevel 1006
+[3/1/2019 19:56:5] /tt doCreatureAddMana, cid, -5035
+[3/1/2019 19:56:10] /tt doCreatureAddMana, cid, -5035
+[3/1/2019 19:57:11] /reload talkactions
+[3/1/2019 19:57:18] /tt doPlayerAddMana, cid, -5035
+[3/1/2019 19:57:20] /tt doPlayerAddMana, cid, -5035
+[3/1/2019 19:57:21] /tt doPlayerAddMana, cid, -5035
+[3/1/2019 19:57:22] /tt doPlayerAddMana, cid, -1
+[3/1/2019 19:57:24] /tt doPlayerAddMana, cid, -12
+[3/1/2019 19:57:45] /changelevel 1000
+[3/1/2019 20:1:42] /reload talkactions
+[3/1/2019 20:2:48] /reload talkactions
+[3/1/2019 20:3:0] /addskill Knight Sample, exp, 2000
+[3/1/2019 20:3:6] /changelevel 2007
+[3/1/2019 20:4:5] /reload talkactions
+[3/1/2019 20:4:11] /changelevel 2006
+[3/1/2019 20:28:53] /goto Xaqi Xugeu
+[3/1/2019 20:29:3] /goto Kaqi Xugeu
+[3/1/2019 20:31:22] /reload talkactions
+[3/1/2019 20:31:26] /changelevel 2005
+[3/1/2019 20:31:30] /changelevel 2004
+[3/1/2019 20:31:36] /changelevel 2000
+[3/1/2019 20:31:40] /changelevel 10000
+[3/1/2019 20:31:43] /changelevel 250
+[3/1/2019 20:32:27] /attr mana -1
+[3/1/2019 20:32:34] /attr set mana -1
+[3/1/2019 20:32:42] /attr health-1
+[3/1/2019 20:32:49] /attr set health-1
+[3/1/2019 20:32:53] /attr set number health-1
+[3/1/2019 20:33:11] /attr health -1
+[3/1/2019 20:33:20] /attr mana -1
+[3/1/2019 20:54:29] /addskill Druid Sample, exp, 4000
+[3/1/2019 20:55:19] /reload talkactions
+[3/1/2019 20:55:39] /addskill Knight Sample, exp, 4000
+[3/1/2019 20:55:46] /changelevel 300
+[3/1/2019 21:9:1] /reload talkactions
+[3/1/2019 21:9:7] /ban Druid Sample
+[3/1/2019 21:11:36] /reload talkactions
+[3/1/2019 21:11:38] /ban Druid Sample
+[3/1/2019 21:12:22] /goto Druid Sample
+[3/1/2019 21:12:47] /unban Druid Sample
+[3/1/2019 21:12:53] /unban Druid Sample
+[3/1/2019 21:12:53] /unban Druid Sample
+[3/1/2019 21:13:19] /unban Druid Sample, 1, 2
+[3/1/2019 21:13:44] /unban Druid Sample, 1
+[3/1/2019 21:13:48] /unban Druid Sample
+[3/1/2019 21:13:54] /ban Druid Sample, 1
+[3/1/2019 21:13:56] /ban Druid Sample, 1, 2
+[3/1/2019 21:13:58] /ban Druid Sample, 1, oi
+[3/1/2019 21:15:40] /reload talkactions
+[3/1/2019 21:15:42] /ban Druid Sample, 1, oi
+[3/1/2019 21:15:52] /reload talkactions
+[3/1/2019 21:15:54] /ban Druid Sample, 1, oi
+[3/1/2019 21:16:9] /ban Druid Sample, 1000, oi
+[3/1/2019 21:16:15] /ban Druid Sample, 10000000, oi
+[3/1/2019 21:16:23] /ban Druid Sample
+[3/1/2019 21:17:50] /reload talkactions
+[3/1/2019 21:17:52] /ban Druid Sample
+[3/1/2019 21:17:54] /ban Druid Sample
+[3/1/2019 21:18:28] /reload talkactions
+[3/1/2019 21:18:29] /ban Druid Sample
+[3/1/2019 21:19:38] /reload talkactions
+[3/1/2019 21:19:40] /ban Druid Sample
+[3/1/2019 21:23:58] /reload talkactions
+[3/1/2019 21:23:59] /ban Druid Sample
+[3/1/2019 21:24:2] /ban Druid Sample
+[3/1/2019 21:25:3] /reload talkactions
+[3/1/2019 21:25:5] /ban Druid Sample
+[3/1/2019 21:25:7] /ban Druid Sample
+[3/1/2019 21:25:40] /reload talkactions
+[3/1/2019 21:25:41] /ban Druid Sample
+[3/1/2019 21:26:22] /unban Druid Sample
+[3/1/2019 21:29:36] /reload talkactions
+[3/1/2019 21:29:39] /ban Druid Sample
+[3/1/2019 21:29:45] /ban Druid Sample
+[3/1/2019 21:29:47] /unban Druid Sample
+[3/1/2019 21:29:52] /unban Druid Sample
+[3/1/2019 21:29:53] /unban Druid Sample
+[3/1/2019 21:29:53] /unban Druid Sample
+[3/1/2019 21:30:8] /unban Druid Sample
+[3/1/2019 21:30:18] /unban Druid Sample
+[3/1/2019 21:30:32] /unban Knight Sample
+[3/1/2019 21:30:33] /ban Druid Sample
+[3/1/2019 21:30:56] /unban Knight Sample
+[3/1/2019 21:30:59] /reload talkactions
+[3/1/2019 21:31:1] /ban Druid Sample
+[3/1/2019 21:31:6] /ban Druid Sample
+[3/1/2019 21:45:38] /reload talkactions
+[3/1/2019 21:46:14] /reload talkactions
+[3/1/2019 22:5:43] /reload talkactions
+[3/1/2019 22:8:56] /reload talkactions
+[3/1/2019 22:28:25] /i great mana potion
+[3/1/2019 22:28:29] /i strong mana potion
+[3/1/2019 22:29:0] /tt doAddCreatureHealth, cid, -2
+[3/1/2019 22:29:5] /tt doAddCreatureHealth, cid, -200
+[3/1/2019 22:29:9] /tt AddCreatureHealth, cid, -200
+[3/1/2019 22:29:37] /tt doCreatureAddHealth, cid, -184
+[3/1/2019 22:29:51] /reload actions
+[3/1/2019 22:29:56] /t
+[3/1/2019 22:30:48] /addskill Druid Sample, exp, 92
+[3/1/2019 22:30:56] /attr mana - 2795
+[3/1/2019 22:31:2] /attr mana -2795
+[3/1/2019 22:32:15] /reload actions
+[3/1/2019 22:34:53] /reload actions
+[3/1/2019 22:37:18] /reload actions
+[3/1/2019 22:38:25] /addskill Druid Sample, exp, 2000
+[3/1/2019 22:38:41] /goto Druid Sample
+[3/1/2019 22:38:45] /attr mana -99999
+[3/1/2019 23:42:42] /goto Paladin
+[3/1/2019 23:44:23] /goto Paladin
+[3/1/2019 23:44:34] /r
+[3/1/2019 23:44:36] /t
+[3/1/2019 23:44:42] /goto Paladin
+[3/1/2019 23:45:33] /goto Vinny
+[3/1/2019 23:46:15] /t
+[3/1/2019 23:46:19] /goto 160, 54, 7
+[3/1/2019 23:46:41] /goto Askaban
+[3/1/2019 23:46:47] /goto Vinny
+[3/1/2019 23:57:51] /c Paladin
+[3/1/2019 23:59:8] /reload config
+[4/1/2019 0:4:43] /reload config
+[4/1/2019 0:5:5] /reload config
+[4/1/2019 2:0:25] /a 5
+[4/1/2019 2:0:26] /a 5
+[4/1/2019 2:0:27] /a 5
+[4/1/2019 2:0:28] /a 5
+[4/1/2019 2:0:29] /a 5
+[4/1/2019 2:0:30] /a 5
+[4/1/2019 2:0:32] /a 5
+[4/1/2019 2:0:32] /a 5
+[4/1/2019 2:0:34] /a 5
+[4/1/2019 2:0:34] /a 5
+[4/1/2019 2:0:35] /a 5
+[4/1/2019 2:0:36] /a 5
+[4/1/2019 2:0:37] /a 5
+[4/1/2019 2:0:37] /a 5
+[4/1/2019 2:0:38] /a 5
+[4/1/2019 2:0:39] /a 5
+[4/1/2019 2:0:40] /a 5
+[4/1/2019 2:0:43] /a 5
+[4/1/2019 2:1:4] /addskill Knight Sample,level,599
+[4/1/2019 2:1:20] /changelevel 341
+[4/1/2019 2:1:50] /changelevel 261
+[4/1/2019 2:2:5] /changelevel 521
+[4/1/2019 2:2:18] /changelevel 523
+[4/1/2019 2:2:23] /t
+[4/1/2019 2:2:56] /goto 161, 54, 7
+[4/1/2019 14:40:2] /reload   creaturescripts
+[4/1/2019 14:45:5] /reload creaturescript
+[4/1/2019 15:53:17] /reload creaturescripts
+[4/1/2019 15:54:41] /reload creaturescripts
+[4/1/2019 15:56:57] /goto Vitor Subhi
+[4/1/2019 15:57:3] /attr set skull 3
+[4/1/2019 15:57:7] /attr skull 3
+[4/1/2019 15:57:8] /attr skull 4
+[4/1/2019 16:1:32] /reload actions
+[4/1/2019 16:15:3] /reload talkactions
+[4/1/2019 16:15:5] !seeorbs Vitor Subhi
+[4/1/2019 16:15:16] !addorbs Vitor Subhi
+[4/1/2019 16:15:20] !addorbs Vitor Subhi, 2
+[4/1/2019 16:15:42] !seeorbs Vitor Subhi
+[4/1/2019 16:16:9] /reload talkactions
+[4/1/2019 16:16:11] !addorbs Vitor Subhi, 2
+[4/1/2019 16:22:33] /reload npc
+[4/1/2019 16:22:37] /n Pumin
+[4/1/2019 16:25:30] /storage Vitor Subhi, 1, 0
+[4/1/2019 16:25:32] /storage Vitor Subhi, 1
+[4/1/2019 16:25:34] /storage Vitor Subhi, 1, -1
+[4/1/2019 16:26:2] /storage Vitor Subhi, 1, -1
+[4/1/2019 16:26:4] /reload npc
+[4/1/2019 16:31:48] /reload talkactions
+[4/1/2019 16:32:36] /reload talkactions
+[4/1/2019 16:33:28] /reload talkactions
+[4/1/2019 16:36:35] /reload talkactions
+[4/1/2019 16:40:27] /reload talkactions
+[4/1/2019 16:40:48] /reload talkactions
+[4/1/2019 16:41:20] /reload talkactions
+[4/1/2019 16:41:39] /reload talkactions
+[4/1/2019 16:42:40] /reload talkactions
+[4/1/2019 16:43:5] /reload talkactions
+[4/1/2019 16:43:43] /reload talkactions
+[4/1/2019 16:44:54] /reload talkactions
+[4/1/2019 16:45:9] /t
+[4/1/2019 16:45:13] /goto 160, 54, 7
+[4/1/2019 16:46:1] /reload talkactions
+[4/1/2019 16:47:6] /reload talkactions
+[4/1/2019 16:49:19] /reload npc
+[4/1/2019 16:50:45] /reload npc
+[4/1/2019 16:51:14] /r
+[4/1/2019 16:55:7] /goto Greed
+[4/1/2019 16:55:25] /attr health -9999999
+[4/1/2019 16:55:26] /attr health -9999999
+[4/1/2019 16:55:56] /attr health -9999999999
+[4/1/2019 16:57:24] /i 7722
+[4/1/2019 17:4:34] /reload monsters
+[4/1/2019 17:4:36] /t
+[4/1/2019 17:44:27] /goto Paladin
+[4/1/2019 17:44:49] /goto Paladin
+[4/1/2019 17:46:55] /i great mana potion
+[4/1/2019 17:50:28] /i stone
+[4/1/2019 17:50:29] /i stone
+[4/1/2019 17:50:30] /i stone
+[4/1/2019 17:50:31] /i stone
+[4/1/2019 17:50:32] /i stone
+[4/1/2019 17:50:33] /i stone
+[4/1/2019 17:50:34] /i stone
+[4/1/2019 17:50:35] /i stone
+[4/1/2019 17:50:39] /m Rotworm
+[4/1/2019 17:51:24] /m Rotworm
+[4/1/2019 17:51:43] /m Rotworm
+[4/1/2019 17:51:49] /attr health 99999999
+[4/1/2019 17:51:53] /attr health 99999999
+[4/1/2019 17:58:43] /r
+[4/1/2019 18:3:32] /reload actions
+[4/1/2019 18:3:41] /reload actions
+[4/1/2019 18:4:11] /reload actions
+[4/1/2019 18:4:44] /i 1748
+[4/1/2019 18:4:47] /i 1748
+[4/1/2019 18:5:58] /reload actions
+[4/1/2019 18:6:16] /attr uniqueid 2160
+[4/1/2019 18:8:6] /r
+[4/1/2019 18:8:9] /r
+[4/1/2019 18:8:11] /r
+[4/1/2019 18:8:14] /r
+[4/1/2019 18:8:15] /r
+[4/1/2019 18:8:17] /r
+[4/1/2019 18:8:18] /r
+[4/1/2019 18:8:19] /r
+[4/1/2019 18:8:22] /r
+[4/1/2019 18:8:28] /r
+[4/1/2019 18:8:30] /r
+[4/1/2019 18:33:44] /attr uniqueid 2464
+[4/1/2019 18:34:32] /reload actions
+[4/1/2019 18:34:43] /attr uniqueid 1741
+[4/1/2019 18:34:45] /attr uniqueid 1742
+[4/1/2019 18:34:50] /i 1742
+[4/1/2019 18:34:52] /r
+[4/1/2019 18:35:12] /i 7361
+[4/1/2019 18:35:22] /r
+[4/1/2019 18:40:55] /i 10003
+[4/1/2019 18:41:34] /i 1004
+[4/1/2019 18:42:6] /goto 757, 945, 7
+[4/1/2019 18:42:13] /i wall
+[4/1/2019 18:42:15] /i stone
+[4/1/2019 18:42:16] /i stone
+[4/1/2019 18:42:18] /i stone
+[4/1/2019 18:42:20] /c Paladin
+[4/1/2019 18:42:34] /i 13880
+[4/1/2019 18:43:9] /t Paladin
+[4/1/2019 18:43:10] /t
+[4/1/2019 18:43:14] /goto Paladin
+[4/1/2019 18:43:34] /i 21003
+[4/1/2019 18:43:44] /i 21003
+[4/1/2019 18:43:51] /goto Paladin
+[4/1/2019 18:43:59] /i 1557
+[4/1/2019 18:44:1] /r
+[4/1/2019 18:44:2] /r
+[4/1/2019 18:44:14] /goto 758, 945, 7
+[4/1/2019 18:45:44] /goto 498, 1650, 8
+[4/1/2019 18:45:47] /c Vinny
+[4/1/2019 18:46:4] /goto Vinny
+[4/1/2019 18:47:35] /c Vinny
+[4/1/2019 18:49:40] /goto 456, 1707, 8
+[4/1/2019 18:49:42] /c Vinny
+[4/1/2019 18:54:22] /i 51111
+[4/1/2019 18:54:56] /i 62010
+[4/1/2019 18:55:43] /i 9876
+[4/1/2019 18:55:46] /r
+[4/1/2019 18:56:12] /goto 356, 582, 13
+[4/1/2019 18:56:16] /c Vinny
+[4/1/2019 18:57:15] /t
+[4/1/2019 19:1:42] /up
+[4/1/2019 19:2:56] /up
+[4/1/2019 19:3:40] /up
+[4/1/2019 19:3:41] /up
+[4/1/2019 19:3:54] /a 3
+[4/1/2019 19:4:59] /t
+[4/1/2019 19:6:3] /up
+[4/1/2019 19:6:5] /up
+[4/1/2019 19:6:8] /up
+[4/1/2019 19:6:32] /down
+[4/1/2019 19:6:35] /down
+[4/1/2019 19:6:38] /down
+[4/1/2019 19:9:31] /up
+[4/1/2019 19:9:32] /up
+[4/1/2019 19:13:29] /t
+[4/1/2019 19:13:35] /goto 160, 54, 7
+[4/1/2019 19:13:53] /tt doPlayerSetHealth, cid, -10
+[4/1/2019 19:13:56] /tt doPlayerSetHealth, cid, -10
+[4/1/2019 19:14:6] /tt doSetPlayerHealth, cid, -10
+[4/1/2019 19:14:15] /tt doAddPlayerHealth, cid, -10
+[4/1/2019 19:14:21] /tt doPlayerAddHealth, cid, -10
+[4/1/2019 19:20:52] /goto Vinny
+[4/1/2019 19:21:5] /goto Paladin
+[4/1/2019 19:30:54] /goto Paladin
+[4/1/2019 19:55:47] /reload actions
+[4/1/2019 19:56:8] /i health potion
+[4/1/2019 19:59:14] /reload actions
+[4/1/2019 19:59:36] /goto Paladin
+[4/1/2019 20:0:40] /reload config
+[4/1/2019 20:0:57] /attr mana -240
+[4/1/2019 20:12:15] /i 2157
+[4/1/2019 21:38:48] /i antidote rune
+[4/1/2019 21:49:7] /reload spells
+[4/1/2019 21:49:32] /reload spells
+[4/1/2019 21:55:58] /reload actions
+[4/1/2019 21:56:2] /i meat
+[4/1/2019 21:56:39] /reload actions
+[4/1/2019 22:2:26] /i gold nugget
+[4/1/2019 22:3:19] /i christmas token
+[4/1/2019 22:4:16] /i 2152
+[4/1/2019 22:4:24] /i 2160
+[4/1/2019 22:6:41] /reload actions
+[4/1/2019 22:8:10] /reload actions
+[4/1/2019 22:8:13] /i 2160
+[4/1/2019 22:8:38] /reload actions
+[4/1/2019 22:10:30] /reload actions
+[4/1/2019 22:10:57] /i 2160
+[4/1/2019 22:11:3] /i 2160
+[4/1/2019 22:11:7] /i 2160
+[4/1/2019 22:12:0] /reload actions
+[4/1/2019 22:12:20] /r
+[4/1/2019 22:12:22] /r 100
+[4/1/2019 22:12:22] /r 100
+[4/1/2019 22:12:23] /r 100
+[4/1/2019 22:12:23] /r 100
+[4/1/2019 22:12:24] /r 100
+[4/1/2019 22:12:29] /i 2152
+[4/1/2019 22:12:36] /i 2160
+[4/1/2019 22:12:42] /i 2160, 1
+[4/1/2019 22:13:9] /r
+[4/1/2019 22:13:16] /i 2160, 99
+[4/1/2019 22:13:19] /r
+[4/1/2019 22:13:28] /i 6527, 99
+[4/1/2019 22:13:28] /r
+[4/1/2019 22:13:56] /r 100
+[4/1/2019 22:14:0] /r 100
+[4/1/2019 22:14:3] /r 100
+[4/1/2019 22:14:7] /r 100
+[4/1/2019 22:18:20] /i meat
+[4/1/2019 22:18:36] /i iridiun coin
+[4/1/2019 22:20:40] /i 2160
+[4/1/2019 22:20:46] /i iridiun coin
+[4/1/2019 23:44:26] /tt
+[4/1/2019 23:45:21] /addskill Knight Sample,level,511
+[4/1/2019 23:45:33] /changelevel 241
+[4/1/2019 23:45:39] /changelevel 261
+[4/1/2019 23:46:16] /goto kongra
+[4/1/2019 23:46:19] /goto kongra warriro
+[4/1/2019 23:46:22] /goto kongra warrior
+[4/1/2019 23:46:40] /goto Enraged Sibang
+[4/1/2019 23:46:45] /t
+[7/1/2019 5:5:55] /changelevel 250

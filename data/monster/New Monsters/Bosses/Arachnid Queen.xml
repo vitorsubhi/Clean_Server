@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Arachnid Queen" tp="1" nameDescription="a Arachnid Queen" species="poison" race="blood" experience="900" speed="2000" manacost="0">
+    <health now="50000000" max="50000000"/>
+    <look type="38" head="0" body="0" legs="0" feet="0" corpse="2857"/>
+    <targetchange interval="4000" chance="10"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="1"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="1"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="1000" min="-13000" max="-15000"/>
+      <attack name="poison spit" interval="10000" chance="0"/>
+    </attacks>
+    <defenses armor="30" defense="35"/> 
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="0"/>
+      <immunity fire="0"/>
+      <immunity poison="1"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="1"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <loot>
+      <item id="2160" countmax="50" chance1="100000" chancemax="0"/>
+      <item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+      <item id="8888" chance="2333"/>
+      <item id="2366" chance="1333"/>
+      <item id="8310" chance="1333"/>
+      <item id="3972" chance="3333"/>
+    </loot>
+  </monster>

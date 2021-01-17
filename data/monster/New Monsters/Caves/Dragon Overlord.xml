@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Dragon Overlord" species="fire" nameDescription="a dragon overlord" race="blood" experience="2000000" speed="1300" manacost="0">
+    <health now="1600000" max="1600000"/>
+    <look type="39" head="20" body="30" legs="40" feet="50" corpse="2881"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="1"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="50"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="210"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="2000" min="-8570" max="-9000"/>
+      <attack name="dragon firewave" interval="6000" chance="80" min="-3550" max="-4250"/>
+      <attack name="dragon fireball" interval="6000" chance="80" min="-2595" max="-3275"/>
+      <attack name="dragon firebomb" interval="7000" chance="40" min="-3700" max="-4000"/>
+    </attacks>
+    <defenses armor="25" defense="25">
+    <defense name="healing" interval="3000" chance="85" min="3000" max="3000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="0"/>
+      <immunity fire="1"/>
+      <immunity poison="0"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="0"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <voices interval="2000" chance="5">
+      <voice sentence="YOU WILL BURN!"/>
+      <voice sentence="ZCHHHHHHH!"/>
+    </voices>
+    <loot>
+      <item id="2160" countmax="20" chance1="999990" chancemax="0"/>
+      <item id="2672" countmax="10" chance1="40000" chancemax="0"/>
+      <item id="1987" chance="50000">
+        <inside>
+          <item id="5791" chance="1818"/>
+          <item id="8867" chance="1818"/>
+        </inside>
+      </item>
+    </loot>
+  </monster>

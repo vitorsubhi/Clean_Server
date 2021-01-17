@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Aegaeus" nameDescription="a Aegaeus" race="blood" experience="650000000" speed="30000" manacost="480">
+  <health now="500000000" max="500000000"/>
+  <look type="104" head="20" body="30" legs="40" feet="50" corpse="8968"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="400000" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-18000" max="-19150"/>
+    <attack name="fire" interval="1000" chance="50" range="7" min="-40" max="-110">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+    <attack name="jaas" interval="900" chance="25" range="7" min="-5000" max="-6000">
+    </attack>
+    <attack name="lifedrain" interval="1000" chance="20" range="7" min="-25000" max="-26120">
+      <attribute key="shootEffect" value="suddendeath"/>
+    </attack>
+    <attack name="speed" interval="1000" chance="1" range="7" speedchange="-1" duration="1">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </attack>
+    <attack name="drunk" interval="1000" chance="1" range="7">
+      <attribute key="shootEffect" value="energy"/>
+      <attribute key="areaEffect" value="energyarea"/>
+    </attack>
+    <attack name="energycondition" interval="2000" chance="17" radius="3" target="0" min="-16000" max="-17000">
+      <attribute key="areaEffect" value="energy"/>
+    </attack>
+  </attacks>
+  <defenses armor="22" defense="15">
+    <defense name="healing" interval="1000" chance="35" min="70000" max="85000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element firePercent="90"/>
+	<element earthPercent="70"/>
+	<element energyPercent="60"/>
+	<element holyPercent="30"/>
+	<element icePercent="-20"/>
+	<element deathPercent="-15"/>
+  </elements>
+  <immunities>
+	<immunity paralyze="1"/>
+	<immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="">
+    <summon name="" interval="1000" chance="15" max="2"/>
+  </summons>
+  <loot>
+    <item id="6527" countmax="80" chance="9999999"/>
+    <item id="6527" countmax="50" chance="9999999"/>
+    <item id="6527" countmax="50" chance="9999999"/>
+    <item id="6527" countmax="80" chance="9999999"/>
+    <item id="1987" chance="50000">
+      <inside>
+	<item id="2160" chance="100000" countmax="100" />
+	<item id="2160" chance="100000" countmax="100" />
+	<item id="2160" chance="100000" countmax="100" />
+	<item id="2160" chance="100000" countmax="100" />
+	<item id="2160" chance="100000" countmax="99" />
+      </inside>
+    </item>
+  </loot>
+</monster>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sample" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="3" head="0" body="77" legs="114" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="0"/>
+		<parameter key="message_greet" value="Oh hey!"/>
+		<parameter key="shop_sellable" value=""/>
+		<parameter key="shop_buyable" value=""/>
+	</parameters>
+</npc>

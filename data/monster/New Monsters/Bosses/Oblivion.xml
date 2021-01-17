@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Oblivion" nameDescription="a oblivion" race="blood" experience="150" speed="1100" manacost="490">
+  <health now="2800000" max="2800000"/>
+  <look type="257" head="20" body="30" legs="40" feet="50" corpse="7330"/>
+  <targetchange interval="2000" chance="5"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag staticattack="50"/>
+    <flag lightlevel="0"/>
+    <flag lightcolor="0"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" min="-6000" max="-1000"/>
+  </attacks>
+  <defenses armor="22" defense="23"/>
+  <elements>
+	<element icePercent="0"/>
+  </elements>
+  <immunities>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <loot>
+    <item id="7891" chance="100000"/> --magma boots
+    <item id="2361" chance="100000"/> --frozen starlight
+  </loot>
+</monster>

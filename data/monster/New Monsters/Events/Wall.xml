@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name=" " nameDescription="a stone wall" race="blood" experience="0" speed="0" manacost="0">
+  <health now="6000000" max="6000000"/>
+  <look typeex="3362" head="20" body="30" legs="40" feet="50" corpse="5157"/>
+  <targetchange interval="0" chance="0"/>
+  <strategy attack="0" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="0"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <defenses armor="25" defense="35">
+  </defenses>
+  <elements>
+	<element earthPercent="100"/>
+	<element icePercent="40"/>
+	<element holyPercent="25"/>
+	<element physicalPercent="-15"/>
+	<element energyPercent="-10"/>
+  </elements>
+  <immunities>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+
+  <loot>
+  </loot>
+</monster>
